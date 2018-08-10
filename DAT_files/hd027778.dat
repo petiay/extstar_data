@@ -7,5 +7,6 @@ H = 5.950 +/- 0.030
 K = 5.930 +/- 0.020
 IUE = IUE_Data/hd027778_iue.fits
 FUSE = FUSE_Data/hd027778_fuse.fits
+STIS_Opt = STIS_Data/hd27778_stis_Opt.fits
 sptype = B3V
 uvsptype = B5V
