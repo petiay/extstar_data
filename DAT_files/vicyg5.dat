@@ -12,6 +12,7 @@ K = 4.339 +/- 0.016
 sptype = O7e
 IRS = IRS_Data/vicyg5_irs.fits
 corfac_irs = 0.876
+MIPS24 = 5.52E+02 +/- 1.17E+01 mJy
 IRAC1 = 5.90E+03 +/- 1.18E+02 mJy
 IRAC2 = 4.53E+03 +/- 9.06E+01 mJy
 IRAC3 = 3.44E+03 +/- 6.89E+01 mJy

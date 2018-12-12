@@ -10,6 +10,7 @@ sptype = B2IV
 uvsptype = B2V
 IRS = IRS_Data/hd147889_irs.fits
 corfac_irs = 1.016
+MIPS24 = 1.68E+02 +/- 3.96E+00 mJy
 IRAC1 = 5.03E+03 +/- 1.01E+02 mJy
 IRAC2 = 3.37E+03 +/- 6.75E+01 mJy
 IRAC3 = 2.41E+03 +/- 4.85E+01 mJy
