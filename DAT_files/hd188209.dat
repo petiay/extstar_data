@@ -7,20 +7,20 @@ I = 5.64 +/- 0.02
 J = 5.724 +/- 0.026
 H = 5.834 +/- 0.023
 K = 5.815 +/- 0.016
-L = 5.912 +/- 0.072 ; LM ref = 1983ApJ...265..304C
-M = 5.893 +/- 0.052
+# L = 5.912 +/- 0.072 ; LM ref = 1983ApJ...265..304C
+# M = 5.893 +/- 0.052
 IUE = IUE_Data/hd188209_iue.fits
 IRS = IRS_Data/hd188209_irs.fits
 sptype = O9.5Ib
 dered_FM = -0.65  0.90  3.20  0.49  4.59  1.00
 dered_RV = 3.1
 dered_AV = 0.59
-corfac_irs = 0.878
-corfac_irs_slope = 0.009
-corfac_irs_zerowave = 7.474
 MIPS24 = 4.71E+01 +/- 1.01E+00 mJy
 IRAC1 = 1.25E+03 +/- 2.52E+01 mJy
 IRAC2 = 8.00E+02 +/- 1.63E+01 mJy
 IRAC3 = 5.63E+02 +/- 1.39E+01 mJy
 IRAC4 = 2.89E+02 +/- 6.19E+00 mJy
 IRS15 = 8.04E+01 +/- 1.61E+00 mJy
+corfac_irs = 0.878
+corfac_irs_slope = 0.009
+corfac_irs_zerowave = 7.474

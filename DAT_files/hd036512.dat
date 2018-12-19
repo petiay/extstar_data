@@ -7,16 +7,13 @@ I = 5.00 +/- 0.02
 J = 5.363 +/- 0.037
 H = 5.347 +/- 0.038
 K = 5.376 +/- 0.023
-L = 5.65 +/- 0.02   ; L ref = 1966CoLPL...4...99J
+# L = 5.65 +/- 0.02   ; L ref = 1966CoLPL...4...99J
 IUE = IUE_Data/hd036512_iue.fits
 sptype = B0V
 dered_RV = 3.1
 dered_AV = 0.12
 dered_FM = -0.24  0.74  3.56  0.52  4.59  1.00
 IRS = IRS_Data/hd036512_irs.fits
-corfac_irs = 0.885
-corfac_irs_slope = -0.002
-corfac_irs_zerowave = 7.465
 corfac_irs_maxwave = 32.0
 MIPS24 = 4.00E+01 +/- 9.14E-01 mJy
 IRAC1 = 1.81E+03 +/- 3.64E+01 mJy
@@ -24,3 +21,6 @@ IRAC2 = 1.14E+03 +/- 2.31E+01 mJy
 IRAC3 = 7.57E+02 +/- 1.70E+01 mJy
 IRAC4 = 3.86E+02 +/- 8.04E+00 mJy
 IRS15 = 9.14E+01 +/- 1.91E+00 mJy
+corfac_irs = 0.885
+corfac_irs_slope = -0.002
+corfac_irs_zerowave = 7.465

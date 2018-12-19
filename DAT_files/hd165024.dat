@@ -5,19 +5,19 @@ V = 3.66 +/- 0.02   ; UBV ref = 1966CoLPL...4...99J
 J = 3.830 +/- 0.03  ; JHKL ref = 1980MNRAS.192..467W
 H = 3.880 +/- 0.03
 K = 3.910 +/- 0.03
-L = 3.97  +/- 0.05
+# L = 3.97  +/- 0.05
 IUE = IUE_Data/hd165024_iue.fits
 IRS = IRS_Data/hd165024_irs.fits
 sptype = B2Ib
 dered_FM =  0.81  0.42  4.50  0.35  4.59  1.00
 dered_RV = 3.1
 dered_AV = 0.28
-corfac_irs = 0.955
-corfac_irs_slope = 0.001
-corfac_irs_zerowave = 7.469
 MIPS24 = 1.99E+02 +/- 4.16E+00 mJy
 IRAC1 = 7.53E+03 +/- 1.51E+02 mJy
 IRAC2 = 4.70E+03 +/- 9.40E+01 mJy
 IRAC3 = 3.24E+03 +/- 6.52E+01 mJy
 IRAC4 = 1.66E+03 +/- 3.35E+01 mJy
 IRS15 = 4.29E+02 +/- 8.57E+00 mJy
+corfac_irs = 0.955
+corfac_irs_slope = 0.001
+corfac_irs_zerowave = 7.469
