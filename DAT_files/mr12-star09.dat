@@ -1,0 +1,10 @@
+# data file for observations of MR12-star08
+U = 18.015 +/- 0.047 ; UBVI ref = J/AJ/123/855/table1
+B = 18.420 +/- 0.031
+V = 18.263 +/- 0.131
+I = 18.377 +/- 0.052
+J = 18.424 +/- 0.066 ; JHK ref = 2012A&A...541A..54M
+H = 18.378 +/- 0.068
+K = 18.307 +/- 0.081
+STIS = STIS_Data/mr12-star09_stis_UV.fits
+#sptype = B0.5III

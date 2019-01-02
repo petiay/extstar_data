@@ -1,0 +1,10 @@
+# data file for observations of MR12-star11
+U = 18.220 +/- 0.050 ; UBVI ref = J/AJ/123/855/table1
+B = 18.708 +/- 0.039
+V = 18.429 +/- 0.045
+I = 18.464 +/- 0.062
+J = 18.464 +/- 0.067 ; JHK ref = 2012A&A...541A..54M
+H = 18.400 +/- 0.069
+K = 18.426 +/- 0.083
+STIS = STIS_Data/mr12-star11_stis_UV.fits
+#sptype = B0.5III
