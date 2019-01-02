@@ -1,0 +1,4 @@
+# data file for observations of j004543.48+414513.7
+V = 19.078 +/- 0.02
+(B-V) = 0.392 +/- 0.02
+STIS = STIS_Data/j004543.48+414513.7_stis_UV.fits
