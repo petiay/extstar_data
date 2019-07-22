@@ -7,7 +7,7 @@ V = 7.19  +/- 0.020  ; UBVRI ref = 1967BOTT....4..149M
 J = 5.680 +/- 0.019
 H = 5.466 +/- 0.023
 K = 5.348 +/- 0.021
-L = 5.24 +/- 0.10   ; L ref = 1978ApJ...223..168S
+# L = 5.24 +/- 0.10   ; L ref = 1978ApJ...223..168S
 IUE = IUE_Data/hd014956_iue.fits
 IRS = IRS_Data/hd014956_irs.fits
 sptype = B2Ia
