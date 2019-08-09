@@ -11,7 +11,7 @@ L = 4.61  +/- 0.020
 M = 4.74  +/- 0.020
 IUE = IUE_Data/hd149038_iue.fits
 # peakup failed - picked brighter star nearby
-#IRS = IRS_Data/hd149038_irs.fits
+# IRS = IRS_Data/hd149038_irs.fits
 sptype = B0Ia
 uvsptype = O9.5Ia
 MIPS24 = 1.50E+02 +/- 3.16E+00 mJy

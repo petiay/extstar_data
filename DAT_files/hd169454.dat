@@ -7,7 +7,7 @@ V = 6.63  +/- 0.030  ; UBVRI ref = 1983ApJS...52....7F
 J = 4.42 +/- 0.03 ; JHKL ref = 1976MNRAS.177..625W
 H = 4.09 +/- 0.03
 K = 3.85 +/- 0.03
-L = 3.69 +/- 0.05
+#L = 3.69 +/- 0.05
 IUE = IUE_Data/hd169454_iue.fits
 sptype = B1Ia
 uvsptype = B2Ib
