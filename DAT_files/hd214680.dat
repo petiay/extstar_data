@@ -10,9 +10,9 @@ K = 5.498 +/- 0.029
 # L = 5.618 +/- 0.024  ; LM ref = 1983ApJ...265..304C
 # M = 5.598 +/- 0.037
 IUE = IUE_Data/hd214680_iue.fits
-OPT = Blue_Data/hd214680_opt.fits
+%OPT = Blue_Data/hd214680_opt.fits
 IRS = IRS_Data/hd214680_irs.fits
-NIR = NIR_Data/hd214680_spex.fits
+SpeX = SpeX_Data/hd214680_spex.fits
 corfac_nir = 0.85
 sptype = O9V
 dered_RV = 3.1

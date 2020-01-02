@@ -9,6 +9,7 @@ H = 5.466 +/- 0.023
 K = 5.348 +/- 0.021
 # L = 5.24 +/- 0.10   ; L ref = 1978ApJ...223..168S
 IUE = IUE_Data/hd014956_iue.fits
+SpeX = SpeX_Data/hd014956_spex.fits
 IRS = IRS_Data/hd014956_irs.fits
 sptype = B2Ia
 uvsptype = B2Ib

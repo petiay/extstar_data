@@ -7,6 +7,7 @@ H = 8.211 +/- 0.049
 K = 8.081 +/- 0.027
 L = 7.82 +/- 0.13   ; L ref = 1974ApJ...190...73S
 IUE = IUE_Data/hd014422_iue.fits
+SpeX = SpeX_Data/hd014422_spex.fits
 # all Spitzer too high by 2 mags (wrong star?)
 # IRS = IRS_Data/hd014422_irs.fits
 sptype = B1V
