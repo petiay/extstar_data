@@ -7,5 +7,6 @@ H = 6.180 +/- 0.050
 K = 6.160 +/- 0.020
 IUE = IUE_Data/hd017505_iue.fits
 FUSE = FUSE_Data/hd017505_fuse.fits
+SpeX = SpeX_Data/hd017505_spex.fits
 sptype = O6V
 uvsptype = O5V
