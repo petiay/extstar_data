@@ -9,7 +9,9 @@ H = 5.466 +/- 0.023
 K = 5.348 +/- 0.021
 # L = 5.24 +/- 0.10   ; L ref = 1978ApJ...223..168S
 IUE = IUE_Data/hd014956_iue.fits
-SpeX = SpeX_Data/hd014956_spex.fits
+SpeX_full = SpeX_Data/hd014956_spex.fits
+SpeX_SXD = SpeX_Data/hd014956_SXD_spex.fits
+SpeX_LXD = SpeX_Data/hd014956_LXD_spex.fits
 IRS = IRS_Data/hd014956_irs.fits
 sptype = B2Ia
 uvsptype = B2Ib
@@ -22,3 +24,6 @@ IRS15 = 1.59E+02 +/- 3.18E+00 mJy
 corfac_irs = 1.028
 corfac_irs_slope = -0.002
 corfac_irs_zerowave = 7.474
+corfac_spex_SXD = 0.8960696136357947
+corfac_spex_LXD = None
+corfac_spex_full = 0.8944030231364323
