@@ -17,4 +17,4 @@ IRAC1 = 9.50E+03 +/- 1.90E+02 mJy
 IRAC2 = 6.76E+03 +/- 1.35E+02 mJy
 IRAC3 = 4.99E+03 +/- 1.00E+02 mJy
 IRAC4 = 2.78E+03 +/- 5.57E+01 mJy
-corfac_irs = 0.903
+# corfac_irs = 0.903

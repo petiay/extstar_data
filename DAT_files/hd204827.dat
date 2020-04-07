@@ -21,9 +21,8 @@ IRAC2 = 5.68E+02 +/- 1.19E+01 mJy
 IRAC3 = 3.88E+02 +/- 1.06E+01 mJy
 IRAC4 = 1.84E+02 +/- 4.35E+00 mJy
 IRS15 = 4.73E+01 +/- 9.59E-01 mJy
-corfac_irs = 0.913
-corfac_irs_slope = 0.006
-corfac_irs_zerowave = 7.456
-
+# corfac_irs = 0.913
+# corfac_irs_slope = 0.006
+# corfac_irs_zerowave = 7.456
 corfac_spex_SXD = 1.1355018994027681
 corfac_spex_LXD = 1.0633155942173764
