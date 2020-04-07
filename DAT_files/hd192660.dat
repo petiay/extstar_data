@@ -11,6 +11,8 @@ H = 6.004 +/- 0.017
 K = 5.909 +/- 0.016
 IUE = IUE_Data/hd192660_iue.fits
 # something wrong with short-low
+SpeX_SXD = SpeX_Data/hd192660_SXD_spex.fits
+SpeX_LXD = SpeX_Data/hd192660_LXD_spex.fits
 IRS = IRS_Data/hd192660_irs.fits
 sptype = B0Ia
 uvsptype = B0Ia
@@ -24,3 +26,5 @@ IRS15 = 1.01E+02 +/- 2.04E+00 mJy
 # corfac_irs = 0.982
 # corfac_irs_slope = -0.002
 # corfac_irs_zerowave = 7.467
+corfac_spex_SXD = 1.415
+corfac_spex_LXD = 1.231
