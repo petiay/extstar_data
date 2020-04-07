@@ -7,7 +7,6 @@ H = 8.211 +/- 0.049
 K = 8.081 +/- 0.027
 L = 7.82 +/- 0.13   ; L ref = 1974ApJ...190...73S
 IUE = IUE_Data/hd014422_iue.fits
-SpeX_full = SpeX_Data/hd014422_spex.fits
 SpeX_SXD = SpeX_Data/hd014422_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd014422_LXD_spex.fits
 # all Spitzer too high by 2 mags (wrong star?)
@@ -23,6 +22,5 @@ uvsptype = B0.5IV
 # corfac_irs = 1.012
 # corfac_irs_slope = -0.029
 # corfac_irs_zerowave = 7.535
-corfac_spex_full = 0.2164808060045225
-corfac_spex_SXD = 0.2795484816083641
-corfac_spex_LXD = 0.16666752320698433
+corfac_spex_SXD = 0.28128605251388744
+corfac_spex_LXD = 0.2727166129072018

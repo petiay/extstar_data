@@ -7,7 +7,6 @@ H = 6.356 +/- 0.021
 K = 6.319 +/- 0.016
 IUE = IUE_Data/hd204827_iue.fits
 IRS = IRS_Data/hd204827_irs.fits
-SpeX_full = SpeX_Data/hd204827_spex.fits
 SpeX_SXD = SpeX_Data/hd204827_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd204827_LXD_spex.fits
 # OPT = Blue_Data/hd204827_opt.fits
@@ -25,6 +24,6 @@ IRS15 = 4.73E+01 +/- 9.59E-01 mJy
 corfac_irs = 0.913
 corfac_irs_slope = 0.006
 corfac_irs_zerowave = 7.456
-corfac_spex_full = 1.133848683837477
-corfac_spex_SXD = 1.135841968267209
-corfac_spex_LXD = None
+
+corfac_spex_SXD = 1.1355018994027681
+corfac_spex_LXD = 1.0633155942173764
