@@ -20,5 +20,5 @@ IRAC3 = 1.06E+03 +/- 2.16E+01 mJy
 IRAC4 = 5.42E+02 +/- 1.09E+01 mJy
 IRS15 = 3.14E+02 +/- 6.51E+00 mJy
 corfac_irs = 0.990
-corfac_spex_SXD = 1.2535338376847327
-corfac_spex_LXD = 1.2465764828594894
+corfac_spex_SXD = 1.254
+corfac_spex_LXD = 1.247

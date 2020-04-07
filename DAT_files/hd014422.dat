@@ -22,5 +22,5 @@ uvsptype = B0.5IV
 # corfac_irs = 1.012
 # corfac_irs_slope = -0.029
 # corfac_irs_zerowave = 7.535
-corfac_spex_SXD = 0.28128605251388744
-corfac_spex_LXD = 0.2727166129072018
+corfac_spex_SXD = 0.281
+corfac_spex_LXD = 0.273

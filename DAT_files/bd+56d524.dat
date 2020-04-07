@@ -11,5 +11,5 @@ SpeX_SXD = SpeX_Data/bd+56d524_SXD_spex.fits
 SpeX_LXD = SpeX_Data/bd+56d524_LXD_spex.fits
 sptype = B1V
 uvsptype = B0.5V
-corfac_spex_SXD = 0.9849831324848323
+corfac_spex_SXD = 0.985
 corfac_spex_LXD = None

@@ -26,6 +26,5 @@ IRS15 = 8.04E+01 +/- 1.61E+00 mJy
 corfac_irs = 0.878
 corfac_irs_slope = 0.009
 corfac_irs_zerowave = 7.474
-
-corfac_spex_SXD = 0.6026331310336462
-corfac_spex_LXD = 0.9247753052212124
+corfac_spex_SXD = 0.603
+corfac_spex_LXD = 0.925
