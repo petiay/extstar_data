@@ -9,6 +9,10 @@ K = 3.48  +/- 0.020
 L = 2.89  +/- 0.030
 SpeX_SXD = SpeX_Data/hd183143_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd183143_LXD_spex.fits
+WISE1 = 3.307 +/- 0.478 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 2.817 +/- 0.483
+WISE3 = 3.053 +/- 0.012
+WISE4 = 2.768 +/- 0.021
 sptype = B7Ia
 corfac_spex_SXD = 0.591
 corfac_spex_LXD = 0.890

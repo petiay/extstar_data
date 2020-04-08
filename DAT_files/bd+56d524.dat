@@ -9,6 +9,10 @@ IUE = IUE_Data/bd+56d524_iue.fits
 FUSE = FUSE_Data/bd+56d524_fuse.fits
 SpeX_SXD = SpeX_Data/bd+56d524_SXD_spex.fits
 SpeX_LXD = SpeX_Data/bd+56d524_LXD_spex.fits
+WISE1 = 8.935 +/- 0.023 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 8.953 +/- 0.021
+WISE3 = 8.996 +/- 0.031
+WISE4 = 8.592 +/- 0.335
 sptype = B1V
 uvsptype = B0.5V
 corfac_spex_SXD = 0.985

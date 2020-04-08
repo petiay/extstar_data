@@ -9,6 +9,10 @@ IUE = IUE_Data/hd017505_iue.fits
 FUSE = FUSE_Data/hd017505_fuse.fits
 SpeX_SXD = SpeX_Data/hd017505_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd017505_LXD_spex.fits
+WISE1 = 5.894 +/- 0.103 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 6.003 +/- 0.031
+WISE3 = 6.155 +/- 0.015
+WISE4 = 5.805 +/- 0.090
 sptype = O6V
 uvsptype = O5V
 corfac_spex_SXD = 0.748

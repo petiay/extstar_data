@@ -8,6 +8,10 @@ K = 5.740 +/- 0.030
 IUE = IUE_Data/hd156247_iue.fits
 SpeX_SXD = SpeX_Data/hd156247_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd156247_LXD_spex.fits
+WISE1 = 5.923 +/- 0.108 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 5.793 +/- 0.044
+WISE3 = 5.935 +/- 0.015
+WISE4 = 5.700 +/- 0.041
 sptype = B5V
 uvsptype = B4IV
 corfac_spex_SXD = 1.375
