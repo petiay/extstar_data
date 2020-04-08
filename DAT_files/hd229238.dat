@@ -2,7 +2,7 @@
 V = 8.88 +/- 0.01  ; UBV ref = 1956ApJS....2..389
 (B-V) = 0.90 +/- 0.01
 (U-B) = -0.06 +/- 0.01
-J = 7.015 +/- 0.023
+J = 7.015 +/- 0.023 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 6.822 +/- 0.017
 K = 6.717 +/- 0.016
 IUE = IUE_Data/hd229238_iue.fits

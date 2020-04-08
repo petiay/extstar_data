@@ -2,9 +2,9 @@
 V = 5.910 +/- 0.040
 B = 5.960 +/- 0.040
 U = 5.500 +/- 0.040
-J = 5.660 +/- 0.020
-H = 5.720 +/- 0.040
-K = 5.740 +/- 0.030
+J = 5.656 +/- 0.020 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
+H = 5.720 +/- 0.044
+K = 5.739 +/- 0.027
 IUE = IUE_Data/hd156247_iue.fits
 SpeX_SXD = SpeX_Data/hd156247_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd156247_LXD_spex.fits
@@ -14,5 +14,5 @@ WISE3 = 5.935 +/- 0.015
 WISE4 = 5.700 +/- 0.041
 sptype = B5V
 uvsptype = B4IV
-corfac_spex_SXD = 1.375
+corfac_spex_SXD = 1.377
 corfac_spex_LXD = 0.348
