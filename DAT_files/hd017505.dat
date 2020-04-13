@@ -9,6 +9,9 @@ IUE = IUE_Data/hd017505_iue.fits
 FUSE = FUSE_Data/hd017505_fuse.fits
 SpeX_SXD = SpeX_Data/hd017505_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd017505_LXD_spex.fits
+IRAC1 = 9.5880E+02 +/- 4.7290E-02 mJy ; IRAC ref = IRSA SEIP Source List
+IRAC2 = 5.6670E+02 +/- 4.0890E-02 mJy
+IRAC4 = 2.3330E+02 +/- 3.2110E-02 mJy
 WISE1 = 5.894 +/- 0.103 ; WISE ref = IRSA AllWISE Source Catalog
 WISE2 = 6.003 +/- 0.031
 WISE3 = 6.155 +/- 0.015
@@ -16,4 +19,4 @@ WISE4 = 5.805 +/- 0.090
 sptype = O6V
 uvsptype = O5V
 corfac_spex_SXD = 0.750
-corfac_spex_LXD = 2.018
+corfac_spex_LXD = 1.598
