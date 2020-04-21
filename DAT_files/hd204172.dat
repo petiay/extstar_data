@@ -2,8 +2,8 @@
 V = 5.93 +/- 0.020    # UBVRI ref = 1977AJ.....82..431L
 (B-V) = -0.08 +/- 0.014
 (U-B) = -0.93 +/- 0.018
-J = 6.085 +/- 0.021
-H = 6.080 +/- 0.046
+J = 6.085 +/- 0.021 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
+H = 6.080 +/- 0.045
 K = 6.141 +/- 0.018
 IUE = IUE_Data/hd204172_iue.fits
 SpeX_SXD = SpeX_Data/hd204172_SXD_spex.fits
@@ -19,6 +19,10 @@ IRAC2 = 6.03E+02 +/- 1.25E+01 mJy
 IRAC3 = 4.05E+02 +/- 1.05E+01 mJy
 IRAC4 = 2.15E+02 +/- 5.03E+00 mJy
 IRS15 = 5.97E+01 +/- 1.20E+00 mJy
+WISE1 = 6.140 +/- 0.089 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 6.056 +/- 0.037
+WISE3 = 6.041 +/- 0.016
+WSIE4 = 5.736 +/- 0.034
 corfac_irs = 0.870
 corfac_irs_slope = -0.001
 corfac_irs_zerowave = 7.478

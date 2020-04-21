@@ -4,11 +4,15 @@ B = 8.080 +/- 0.010
 U = 8.170 +/- 0.010
 R = 5.74  +/- 0.010
 I = 4.79  +/- 0.020
-J = 4.13  +/- 0.020
-K = 3.48  +/- 0.020
+J = 4.13 +/- 0.1 ; JK ref = 1965ApJ...141..923J (no error bars)
+K = 3.48 +/- 0.1
 L = 2.89  +/- 0.030
 SpeX_SXD = SpeX_Data/hd183143_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd183143_LXD_spex.fits
+WISE1 = 3.307 +/- 0.478 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 2.817 +/- 0.483
+WISE3 = 3.053 +/- 0.012
+WISE4 = 2.768 +/- 0.021
 sptype = B7Ia
-corfac_spex_SXD = 0.591
-corfac_spex_LXD = 0.890
+corfac_spex_SXD = 0.593
+corfac_spex_LXD = 0.706
