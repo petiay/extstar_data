@@ -25,4 +25,5 @@ WISE3 = 4.882 +/- 0.023
 WISE4 = 3.821 +/- 0.033
 # corfac_irs = 0.990
 corfac_spex_SXD = 1.254
-corfac_spex_LXD = 1.247
+LXD_man = True
+corfac_spex_LXD = 1.1

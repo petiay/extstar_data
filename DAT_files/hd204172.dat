@@ -27,4 +27,5 @@ corfac_irs = 0.870
 corfac_irs_slope = -0.001
 corfac_irs_zerowave = 7.478
 corfac_spex_SXD = 0.978
-corfac_spex_LXD = 0.966
+LXD_man = True
+corfac_spex_LXD = 0.92

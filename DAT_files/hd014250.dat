@@ -20,4 +20,5 @@ WISE4 = 7.883 +/- 0.153
 sptype = B1IV
 uvsptype = B1.5III
 corfac_spex_SXD = 0.152
-corfac_spex_LXD = 0.715
+LXD_man = True
+corfac_spex_LXD = 0.93
