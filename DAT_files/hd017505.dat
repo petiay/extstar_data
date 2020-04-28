@@ -19,4 +19,5 @@ WISE4 = 5.805 +/- 0.090
 sptype = O6V
 uvsptype = O5V
 corfac_spex_SXD = 0.750
-corfac_spex_LXD = 1.598
+LXD_man = True
+corfac_spex_LXD = 1.43

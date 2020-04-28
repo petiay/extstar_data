@@ -29,4 +29,5 @@ WISE4 = 6.350 +/- 0.055
 # corfac_irs_slope = 0.006
 # corfac_irs_zerowave = 7.456
 corfac_spex_SXD = 1.136
-corfac_spex_LXD = 1.063
+LXD_man = True
+corfac_spex_LXD = .99
