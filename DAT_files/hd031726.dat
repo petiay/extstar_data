@@ -1,11 +1,13 @@
 # data file for observations of HD 31726 (IUE standard)
-V = 6.147 +/- 0.001  ; UBVRI ref = 1983ApJS...52....7F
+V = 6.147 +/- 0.001  ; UBV ref = 1983ApJS...52....7F
 (B-V) = -0.206 +/- 0.002
 (U-B) = -0.873 +/- 0.004
-J = 6.642 +/- 0.020
+J = 6.642 +/- 0.020 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 6.779 +/- 0.047
 K = 6.803 +/- 0.024
 IUE = IUE_Data/hd031726_iue.fits
+SpeX_SXD = SpeX_Data/hd031726_SXD_spex.fits
+SpeX_LXD = SpeX_Data/hd031726_LXD_spex.fits
 IRS = IRS_Data/hd031726_irs.fits
 sptype = B1V
 dered_RV = 3.1
@@ -18,6 +20,13 @@ IRAC2 = 3.24E+02 +/- 6.49E+00 mJy
 IRAC3 = 2.17E+02 +/- 4.41E+00 mJy
 IRAC4 = 1.09E+02 +/- 2.20E+00 mJy
 IRS15 = 2.70E+01 +/- 5.59E-01 mJy
+WISE1 = 6.828 +/- 0.071 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 6.886 +/- 0.020
+WISE3 = 6.978 +/- 0.016
+WISE4 = 6.904 +/- 0.083
 # corfac_irs = 0.916
 # corfac_irs_slope = 0.001
 # corfac_irs_zerowave = 7.465
+corfac_spex_SXD = 0.942
+LXD_man = True
+corfac_spex_LXD = 0.97
