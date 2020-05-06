@@ -17,8 +17,7 @@ IRAC4 = 8.1580E+01 +/- 3.3750E-02 mJy
 WISE1 = 7.152 +/- 0.037 ; WISE ref = IRSA AllWISE Source Catalog
 WISE2 = 7.203 +/- 0.019
 WISE3 = 7.145 +/- 0.034
-# The catalog reports 1.994 mag for WISE4, but I believe this is a typo.
-WISE4 = 6.994 +/- 0.020
+WISE4 = 1.994 +/- 0.020
 corfac_spex_SXD = 0.848
 LXD_man = True
-corfac_spex_LXD = 0.76
+corfac_spex_LXD = 0.75
