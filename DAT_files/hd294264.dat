@@ -2,9 +2,21 @@
 V = 9.470 +/- 0.010
 B = 9.830 +/- 0.010
 U = 9.420 +/- 0.010
-J = 8.090 +/- 0.030
-H = 7.740 +/- 0.030
-K = 7.580 +/- 0.030
+J = 8.086 +/- 0.029 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
+H = 7.744 +/- 0.034
+K = 7.582 +/- 0.033
 IUE = IUE_Data/hd294264_iue.fits
+SpeX_SXD = SpeX_Data/hd294264_SXD_spex.fits
+SpeX_LXD = SpeX_Data/hd294264_LXD_spex.fits
 sptype = B3V
 uvsptype = B3IV
+IRAC3 = 1.3050E+02 +/- 6.3350E-02 mJy ; IRAC ref = IRSA SEIP Source List
+IRAC4 = 8.0270E+01 +/- 4.2560E-02 mJy
+WISE1 = 7.448 +/- 0.036 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 7.424 +/- 0.021
+# WISE3 and WISE4 data points seem to be too high
+# WISE3 = 6.437 +/- 0.069
+# WISE4 = 2.547 +/- 0.072 
+corfac_spex_SXD = 0.830
+LXD_man = True
+corfac_spex_LXD = 1.13
