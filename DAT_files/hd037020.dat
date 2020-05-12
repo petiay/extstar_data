@@ -3,6 +3,7 @@ V = 6.720 +/- 0.010
 B = 6.720 +/- 0.010
 U = 5.840 +/- 0.010
 J = 6.140 +/- 0.040
+# 2MASS J seems to be wrong: J = 7.120
 H = 5.802 +/- 0.024 ; HK ref = IRSA 2MASS All-Sky Point Source Catalog
 K = 5.668 +/- 0.021
 IUE = IUE_Data/hd037020_iue.fits
@@ -10,6 +11,6 @@ SpeX_SXD = SpeX_Data/hd037020_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd037020_LXD_spex.fits
 sptype = B0.5V
 uvsptype = B0.5V
-corfac_spex_SXD = 1.295
+corfac_spex_SXD = 1.704
 LXD_man = True
-corfac_spex_LXD = 1.08
+corfac_spex_LXD = 1.69
