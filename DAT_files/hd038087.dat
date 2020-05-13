@@ -2,10 +2,24 @@
 V = 8.300 +/- 0.010
 B = 8.420 +/- 0.010
 U = 7.970 +/- 0.010
-J = 7.590 +/- 0.020
-H = 7.390 +/- 0.040
-K = 7.250 +/- 0.020
+# IRSA (2MASS, IRAC and WISE) catalogs all refer to object IC435 when searching for this star. IC435 is the nebula surrounding this star.
+J = 7.588 +/- 0.024 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
+H = 7.386 +/- 0.042
+K = 7.252 +/- 0.023
 IUE = IUE_Data/hd038087_iue.fits
 FUSE = FUSE_Data/hd038087_fuse.fits
+SpeX_SXD = SpeX_Data/hd038087_SXD_spex.fits
+SpeX_LXD = SpeX_Data/hd038087_LXD_spex.fits
 sptype = B5V
 uvsptype = B4  V
+IRAC3 = 1.4440E+02 +/- 7.0390E-02 mJy ; IRAC ref = IRSA SEIP Source List
+IRAC4 = 8.1580E+01 +/- 3.3750E-02 mJy
+# IRSA catalog flags W1, W2 and W4 as contaminated by scattered light halo.
+WISE1 = 7.152 +/- 0.037 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 7.203 +/- 0.019
+WISE3 = 7.145 +/- 0.034
+# WISE4 photometry is severely contaminated by the surrounding nebula.
+# WISE4 = 1.994 +/- 0.020
+corfac_spex_SXD = 0.848
+LXD_man = True
+corfac_spex_LXD = 0.315

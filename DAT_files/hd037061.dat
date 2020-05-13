@@ -2,9 +2,17 @@
 V = 6.830 +/- 0.010
 B = 7.090 +/- 0.010
 U = 6.400 +/- 0.010
-J = 5.750 +/- 0.030
-H = 5.590 +/- 0.040
-K = 5.490 +/- 0.020
+J = 5.752 +/- 0.027 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
+H = 5.588 +/- 0.040
+K = 5.490 +/- 0.021
 IUE = IUE_Data/hd037061_iue.fits
+SpeX_SXD = SpeX_Data/hd037061_SXD_spex.fits
+SpeX_LXD = SpeX_Data/hd037061_LXD_spex.fits
 sptype = B1V
 uvsptype = B0V
+# There seems to be a problem with the WISE data, probably wrong source.
+# WISE1 = 8.407 +/- 0.249 ; WISE ref = IRSA AllWISE Source Catalog
+# WISE2 = 6.755 +/- 0.117
+corfac_spex_SXD = 1.007
+LXD_man = True
+corfac_spex_LXD = 0.98

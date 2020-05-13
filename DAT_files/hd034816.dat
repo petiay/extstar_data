@@ -4,12 +4,14 @@ V = 4.29 +/- 0.02  ; UBVRI ref = 1966CoLPL...4...99J
 (U-B) = -1.01 +/- 0.02
 R = 4.41 +/- 0.02
 I = 4.69 +/- 0.02
-J = 4.882 +/- 0.018
+J = 4.882 +/- 0.018 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 5.001 +/- 0.047
 K = 5.004 +/- 0.017
 # L = 5.05 +/- 0.02  ; LM ref = 1986A&AS...66...63T
 # M = 5.36 +/- 0.02
 IUE = IUE_Data/hd034816_iue.fits
+SpeX_SXD = SpeX_Data/hd034816_SXD_spex.fits
+SpeX_LXD = SpeX_Data/hd034816_LXD_spex.fits
 IRS = IRS_Data/hd034816_irs.fits
 sptype = B0.5IV
 MIPS24 = 5.90E+01 +/- 1.29E+00 mJy
@@ -18,6 +20,13 @@ IRAC2 = 1.61E+03 +/- 3.24E+01 mJy
 IRAC3 = 1.09E+03 +/- 2.32E+01 mJy
 IRAC4 = 5.42E+02 +/- 1.11E+01 mJy
 IRS15 = 1.31E+02 +/- 2.62E+00 mJy
+WISE1 = 5.131 +/- 0.186 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 4.980 +/- 0.064
+WISE3 = 5.223 +/- 0.016
+WISE4 = 5.200 +/- 0.033
 # corfac_irs = 0.958
 # corfac_irs_slope = -0.001
 # corfac_irs_zerowave = 7.462
+corfac_spex_SXD = 0.902
+LXD_man = True
+corfac_spex_LXD = 0.893
