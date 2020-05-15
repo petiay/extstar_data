@@ -8,7 +8,7 @@ K = 6.038 +/- 0.021
 IUE = IUE_Data/hd052721_iue.fits
 SpeX_SXD = SpeX_Data/hd052721_SXD_spex.fits
 #SpeX_LXD = SpeX_Data/hd052721_LXD_spex.fits
-sptype = B2V
+sptype = B2V ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
 uvsptype = B1V
 WISE1 = 6.040 +/- 0.074 ; WISE ref = IRSA AllWISE Source Catalog
 WISE2 = 5.631 +/- 0.042

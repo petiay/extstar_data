@@ -10,7 +10,7 @@ K = 5.363 +/- 0.020
 IUE = IUE_Data/hd029647_iue.fits
 SpeX_SXD = SpeX_Data/hd029647_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd029647_LXD_spex.fits
-sptype = B8III
+sptype = B8III ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
 uvsptype = B8III
 IRS = IRS_Data/hd029647_irs.fits
 MIPS24 = 6.76E+01 +/- 1.89E+00 mJy

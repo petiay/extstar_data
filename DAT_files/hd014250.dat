@@ -17,7 +17,7 @@ WISE1 = 7.970 +/- 0.167 ; WISE ref = IRSA AllWISE Source Catalog
 WISE2 = 8.258 +/- 0.021
 WISE3 = 8.299 +/- 0.024
 WISE4 = 7.883 +/- 0.153
-sptype = B1IV
+sptype = B1IV ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
 uvsptype = B1.5III
 corfac_spex_SXD = 0.152
 LXD_man = True
