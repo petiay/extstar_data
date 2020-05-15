@@ -4,8 +4,8 @@ B = 8.080 +/- 0.010
 U = 8.170 +/- 0.010
 R = 5.74  +/- 0.010
 I = 4.79  +/- 0.020
-J = 4.13 +/- 0.1 ; JK ref = 1965ApJ...141..923J (no error bars)
-K = 3.48 +/- 0.1
+J = 4.13 +/- 0.00 ; JK ref = 1965ApJ...141..923J (no uncertainties)
+K = 3.48 +/- 0.00
 L = 2.89  +/- 0.030
 SpeX_SXD = SpeX_Data/hd183143_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd183143_LXD_spex.fits
