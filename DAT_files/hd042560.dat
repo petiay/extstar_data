@@ -1,9 +1,9 @@
 # data file for observations of HD 42560
-U = 3.65 +/- 0.00 ; UBVRI ref = 2002yCat.2237....0D (no uncertainties)
-B = 4.31 +/- 0.00
-V = 4.48 +/- 0.00
-R = 4.53 +/- 0.00
-I = 4.69 +/- 0.00
+U = 3.65 +/- 0.03 ; UBVRI ref = 2002yCat.2237....0D (no uncertainties, assume 0.03)
+B = 4.31 +/- 0.03
+V = 4.48 +/- 0.03
+R = 4.53 +/- 0.03
+I = 4.69 +/- 0.03
 J = 4.953 +/- 0.284 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 4.921 +/- 0.024
 K = 4.896 +/- 0.017
