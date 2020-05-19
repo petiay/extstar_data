@@ -9,7 +9,7 @@ H = 4.921 +/- 0.024
 K = 4.896 +/- 0.017
 SpeX_SXD = SpeX_Data/hd042560_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd042560_LXD_spex.fits
-sptype = B3IV ; ref = 1968ApJS...17..371L
+sptype = B3IV ; sptype ref = Lesh 1968 (1968ApJS...17..371L)
 WISE1 = 4.949 +/- 0.202 ; WISE ref = IRSA AllWISE Source Catalog
 WISE2 = 4.818 +/- 0.081
 WISE3 = 5.046 +/- 0.014

@@ -9,7 +9,7 @@ IUE = IUE_Data/hd031726_iue.fits
 SpeX_SXD = SpeX_Data/hd031726_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd031726_LXD_spex.fits
 IRS = IRS_Data/hd031726_irs.fits
-sptype = B1V
+sptype = B1V ; sptype ref = Lesh 1968 (1968ApJS...17..371L)
 dered_RV = 3.1
 dered_AV = 0.16
 dered_FM = -0.17  0.71  2.82  0.51  4.59  1.00
