@@ -9,7 +9,7 @@ K = 4.403 +/- 0.023
 IUE = IUE_Data/hd037022_iue.fits
 SpeX_SXD = SpeX_Data/hd037022_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd037022_LXD_spex.fits
-sptype = O6V
+sptype = O6V ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
 uvsptype = O7V
 corfac_spex_SXD = 0.913
 LXD_man = True

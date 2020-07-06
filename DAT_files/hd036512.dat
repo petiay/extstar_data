@@ -9,7 +9,7 @@ H = 5.347 +/- 0.038
 K = 5.376 +/- 0.023
 # L = 5.65 +/- 0.02   ; L ref = 1966CoLPL...4...99J
 IUE = IUE_Data/hd036512_iue.fits
-sptype = B0V
+sptype = B0V ; sptype ref = Walborn 1971 (1971ApJS...23..257W)
 dered_RV = 3.1
 dered_AV = 0.12
 dered_FM = -0.24  0.74  3.56  0.52  4.59  1.00

@@ -9,7 +9,7 @@ IUE = IUE_Data/hd204172_iue.fits
 SpeX_SXD = SpeX_Data/hd204172_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd204172_LXD_spex.fits
 IRS = IRS_Data/hd204172_irs.fits
-sptype = B0Ib
+sptype = B0Ib ; sptype ref = Lutz&Lutz 1977 (1977AJ.....82..431L)
 dered_FM = -1.70  1.25  2.00  0.60  4.59  0.80
 dered_RV = 3.1
 dered_AV = 0.47

@@ -10,7 +10,7 @@ K = 5.680 +/- 0.020
 IUE = IUE_Data/hd051283_iue.fits
 SpeX_SXD = SpeX_Data/hd051283_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd051283_LXD_spex.fits
-sptype = B2III
+sptype = B2III ; sptype ref = Hiltner 1969 (1969ApJ...157..313H)
 dered_RV = 3.1
 dered_AV = 0.16
 dered_FM = -0.24  0.74  3.40  0.52  4.59  1.00

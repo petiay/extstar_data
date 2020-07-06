@@ -9,7 +9,7 @@ H = 3.61 +/- 0.03
 K = 3.68 +/- 0.03
 L = 3.77 +/- 0.03
 IUE = IUE_Data/hd032630_iue.fits
-sptype = B3V
+sptype = B3V ; sptype ref = Morgan&Keenan 1973 (1973ARA&A..11...29M)
 dered_RV = 3.1
 dered_AV = 0.06
 dered_FM = -0.24  0.74  3.56  0.52  4.59  1.00

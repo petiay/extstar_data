@@ -9,7 +9,7 @@ H =  4.22 +/- 0.03
 K =  4.26 +/- 0.03
 L =  4.27 +/- 0.05
 IUE = IUE_Data/hd091316_iue.fits
-sptype = B1Iab
+sptype = B1Iab ; sptype ref = Lesh 1968 (1968ApJS...17..371L|)
 dered_FM = -3.30  1.81  4.10  0.50  4.59  1.40
 dered_RV = 3.1
 dered_AV = 0.16

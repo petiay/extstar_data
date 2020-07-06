@@ -7,5 +7,5 @@ H = 6.470 +/- 0.030
 K = 6.440 +/- 0.020
 IUE = IUE_Data/hd046150_iue.fits
 FUSE = FUSE_Data/hd046150_fuse.fits
-sptype = O6V
+sptype = O6V ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
 uvsptype = O5V

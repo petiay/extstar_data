@@ -1,15 +1,15 @@
 # data file for observations of HD 42560
-U = 3.65 ; UBVRI ref = 2002yCat.2237....0D
-B = 4.31
-V = 4.48
-R = 4.53
-I = 4.69
+U = 3.65 +/- 0.03 ; UBVRI ref = 2002yCat.2237....0D (no uncertainties, assume 0.03)
+B = 4.31 +/- 0.03
+V = 4.48 +/- 0.03
+R = 4.53 +/- 0.03
+I = 4.69 +/- 0.03
 J = 4.953 +/- 0.284 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 4.921 +/- 0.024
 K = 4.896 +/- 0.017
 SpeX_SXD = SpeX_Data/hd042560_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd042560_LXD_spex.fits
-sptype = B3IV ; ref = 1968ApJS...17..371L
+sptype = B3IV ; sptype ref = Lesh 1968 (1968ApJS...17..371L)
 WISE1 = 4.949 +/- 0.202 ; WISE ref = IRSA AllWISE Source Catalog
 WISE2 = 4.818 +/- 0.081
 WISE3 = 5.046 +/- 0.014

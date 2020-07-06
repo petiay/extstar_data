@@ -8,7 +8,7 @@ J = 5.202 +/- 0.023
 H = 5.322 +/- 0.021
 K = 5.340 +/- 0.021
 IUE = IUE_Data/hd047839_iue.fits
-sptype = O7V
+sptype = O7V((f))z var ; sptype ref = Sota+2014 (2014ApJS..211...10S)
 dered_RV = 3.1
 dered_AV = 0.06
 dered_FM = -0.30  0.80  2.90  0.75  4.59  1.00
