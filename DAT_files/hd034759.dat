@@ -1,12 +1,21 @@
 # data file for observations of HD 34759 (IUE standard)
-V = 5.22 +/- 0.019  ; UBVRI ref = 1971AJ.....76.1058C
+V = 5.22 +/- 0.019 ; UBVRI ref = 1971AJ.....76.1058C
 (B-V) = -0.14 +/- 0.010
 (U-B) = -0.57 +/- 0.015
-J = 5.437 +/- 0.019
+J = 5.437 +/- 0.019 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 5.531 +/- 0.018
 K = 5.581 +/- 0.016
 IUE = IUE_Data/hd034759_iue.fits
-sptype = B5V ; sptype ref = Morgan&Keenan 1973 (1973ARA&A..11...29M)
+SpeX_SXD = SpeX_Data/hd034759_sxd_spex.fits
+SpeX_LXD = SpeX_Data/hd034759_lxd_spex.fits
+sptype = B5V ; sptype ref = Morgan & Keenan 1973 (1973ARA&A..11...29M)
+WISE1 = 5.717 +/- 0.139 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 5.555 +/- 0.053
+WISE3 = 5.724 +/- 0.015
+WISE4 = 5.478 +/- 0.042
 dered_RV = 3.1
 dered_AV = 0.062
 dered_FM = -0.24  0.74  3.56  0.52  4.59  1.00
+corfac_spex_SXD = 0.937
+LXD_man = True
+corfac_spex_LXD = 1.0

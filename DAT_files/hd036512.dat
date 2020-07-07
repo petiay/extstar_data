@@ -1,14 +1,15 @@
 # data file for observations of HD 36512 (IUE standard)
-V = 4.62 +/- 0.02   ; UBVRI ref = 1966CoLPL...4...99J
+V = 4.62 +/- 0.02 ; UBVRI ref = 1966CoLPL...4...99J
 (B-V) = -0.26 +/- 0.02
 (U-B) = -1.07 +/- 0.02
 R = 4.74 +/- 0.02
 I = 5.00 +/- 0.02
-J = 5.363 +/- 0.037
+J = 5.363 +/- 0.037 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 5.347 +/- 0.038
 K = 5.376 +/- 0.023
-# L = 5.65 +/- 0.02   ; L ref = 1966CoLPL...4...99J
+L = 5.65 +/- 0.02 ; L ref = 1966CoLPL...4...99J (source 1855 in table 2)
 IUE = IUE_Data/hd036512_iue.fits
+SpeX_SXD = SpeX_Data/hd036512_sxd_spex.fits
 sptype = B0V ; sptype ref = Walborn 1971 (1971ApJS...23..257W)
 dered_RV = 3.1
 dered_AV = 0.12
@@ -21,7 +22,14 @@ IRAC2 = 1.14E+03 +/- 2.31E+01 mJy
 IRAC3 = 7.57E+02 +/- 1.70E+01 mJy
 IRAC4 = 3.86E+02 +/- 8.04E+00 mJy
 IRS15 = 9.14E+01 +/- 1.91E+00 mJy
+# IRSA catalog flags W1 and W2 as contaminated by scattered light halo.
+WISE1 = 5.497 +/- 0.169 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 5.401 +/- 0.058
+WISE3 = 5.620 +/- 0.014
+WISE4 = 5.582 +/- 0.042
 corfac_irs = 0.925
 # corfac_irs = 0.885
 # corfac_irs_slope = -0.002
 # corfac_irs_zerowave = 7.465
+corfac_spex_SXD = 1.050
+corfac_spex_LXD = None
