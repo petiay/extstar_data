@@ -6,7 +6,6 @@ J = 5.418 +/- 0.029 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 5.444 +/- 0.038
 K = 5.463 +/- 0.023
 SpeX_SXD = SpeX_Data/hd078316_SXD_spex.fits
-#SpeX_LXD = SpeX_Data/hd078316_LXD_spex.fits
 sptype = B8IIIp ; sptype ref = Levato 1975 (1975A&AS...19...91L)
 WISE1 = 5.481 +/- 0.187 ; WISE ref = IRSA AllWISE Source Catalog
 WISE2 = 5.344 +/- 0.062
