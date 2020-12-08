@@ -23,10 +23,10 @@ IRAC2 = 8.00E+02 +/- 1.63E+01 mJy
 IRAC3 = 5.63E+02 +/- 1.39E+01 mJy
 IRAC4 = 2.89E+02 +/- 6.19E+00 mJy
 IRS15 = 8.04E+01 +/- 1.61E+00 mJy
-WISE1 = 5.794 +/- 0.158 ; WISE ref = IRSA AllWISE Source Catalog
-WISE2 = 5.709 +/- 0.049
-WISE3 = 5.765 +/- 0.015
-WISE4 = 5.527 +/- 0.039
+#WISE1 = 5.794 +/- 0.158 ; WISE ref = IRSA AllWISE Source Catalog
+#WISE2 = 5.709 +/- 0.049
+#WISE3 = 5.765 +/- 0.015
+#WISE4 = 5.527 +/- 0.039
 corfac_irs = 0.95
 # corfac_irs = 0.878
 # corfac_irs_slope = 0.009
