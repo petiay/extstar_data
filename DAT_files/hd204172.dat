@@ -19,12 +19,10 @@ IRAC2 = 6.03E+02 +/- 1.25E+01 mJy
 IRAC3 = 4.05E+02 +/- 1.05E+01 mJy
 IRAC4 = 2.15E+02 +/- 5.03E+00 mJy
 IRS15 = 5.97E+01 +/- 1.20E+00 mJy
-# WISE 1 and 2 have saturated pixels, contaminated by scattered light halo
-WISE1 = 6.140 +/- 0.089 ; WISE ref = IRSA AllWISE Source Catalog
-WISE2 = 6.056 +/- 0.037
-# WISE 3 and 4 contaminated by scattered moonlight
-WISE3 = 6.041 +/- 0.016
-WISE4 = 5.736 +/- 0.034
+#WISE1 = 6.140 +/- 0.089 ; WISE ref = IRSA AllWISE Source Catalog
+#WISE2 = 6.056 +/- 0.037
+#WISE3 = 6.041 +/- 0.016
+#WSIE4 = 5.736 +/- 0.034
 corfac_irs = 0.870
 corfac_irs_slope = -0.001
 corfac_irs_zerowave = 7.478

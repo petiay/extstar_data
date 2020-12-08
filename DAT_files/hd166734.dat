@@ -17,12 +17,10 @@ IRAC2 = 1.74E+03 +/- 3.50E+01 mJy
 IRAC3 = 1.28E+03 +/- 2.73E+01 mJy
 IRAC4 = 7.29E+02 +/- 1.48E+01 mJy
 IRS15 = 2.55E+02 +/- 5.12E+00 mJy
-# WISE 1 and 2 have saturated pixels
-WISE1 = 5.162 +/- 0.204 ; WISE ref = IRSA AllWISE Source Catalog
-WISE2 = 4.864 +/- 0.113
-# WISE 3 and 4 contaminated by short-term latent image left by bright source
-WISE3 = 4.822 +/- 0.015
-WISE4 = 4.174 +/- 0.032
+# WISE1 = 5.162 +/- 0.204 ; WISE ref = IRSA AllWISE Source Catalog
+# WISE2 = 4.864 +/- 0.113
+# WISE3 = 4.822 +/- 0.015
+# WISE4 = 4.174 +/- 0.032
 # corfac_irs = 0.949
 # corfac_irs_slope = 0.004
 # corfac_irs_zerowave = 7.480

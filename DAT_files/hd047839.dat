@@ -10,7 +10,7 @@ H = 5.322 +/- 0.021
 K = 5.340 +/- 0.021
 IUE = IUE_Data/hd047839_iue.fits
 SpeX_SXD = SpeX_Data/hd047839_sxd_spex.fits
-sptype = O7V((f))z var ; sptype ref = Sota+2014 (2014ApJS..211...10S)
+sptype = O7V  ; ((f))z var ; sptype ref = Sota+2014 (2014ApJS..211...10S)
 dered_RV = 3.1
 dered_AV = 0.06
 dered_FM = -0.30  0.80  2.90  0.75  4.59  1.00
@@ -21,12 +21,11 @@ IRAC2 = 1.19E+03 +/- 2.39E+01 mJy
 IRAC3 = 8.17E+02 +/- 1.68E+01 mJy
 IRAC4 = 4.07E+02 +/- 8.23E+00 mJy
 IRS15 = 1.03E+02 +/- 5.34E+00 mJy
-# WISE contaminated by scattered moonlight
-# WISE 1 and 2 have saturated pixels, contaminated by scattered light halo
-WISE1 = 5.363 +/- 0.149 ; WISE ref = IRSA AllWISE Source Catalog
-WISE2 = 5.221 +/- 0.058
-WISE3 = 5.564 +/- 0.018
-WISE4 = 5.336 +/- 0.212
+# IRSA catalog flags W1 and W2 as contaminated by scattered light halo.
+#WISE1 = 5.363 +/- 0.149 ; WISE ref = IRSA AllWISE Source Catalog
+#WISE2 = 5.221 +/- 0.058
+#WISE3 = 5.564 +/- 0.018
+#WISE4 = 5.336 +/- 0.212
 # corfac_irs = 0.990
 corfac_spex_SXD = 0.994
 corfac_spex_LXD = None
