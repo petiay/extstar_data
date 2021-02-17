@@ -15,6 +15,7 @@ IRS = IRS_Data/hd192660_irs.fits
 sptype = B0Ia ; sptype ref = Morgan, Code & Whitford 1955 (1955ApJS....2...41M)
 uvsptype = B0Ia ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 corfac_irs_maxwave = 32.0
+corfac_irs_maxsnr = 50.
 MIPS24 = 4.77E+01 +/- 1.07E+00 mJy
 # IRAC 1 and 2 seem off
 IRAC1 = 1.38E+03 +/- 2.78E+01 mJy
@@ -25,7 +26,7 @@ IRS15 = 1.01E+02 +/- 2.04E+00 mJy
 # WISE1 = 5.813 +/- 0.136 ; WISE ref = IRSA AllWISE Source Catalog
 # WISE2 = 5.647 +/- 0.051
 # WISE3 = 5.675 +/- 0.016
-# WISE4 = 5.469 +/- 0.064 
+# WISE4 = 5.469 +/- 0.064
 # corfac_irs = 0.982
 # corfac_irs_slope = -0.002
 # corfac_irs_zerowave = 7.467

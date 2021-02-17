@@ -13,7 +13,8 @@ sptype = B1V ; sptype ref = Lesh 1968 (1968ApJS...17..371L)
 dered_RV = 3.1
 dered_AV = 0.16
 dered_FM = -0.17  0.71  2.82  0.51  4.59  1.00
-corfac_irs_maxwave = 32.0
+corfac_irs_maxwave = 33.0
+corfac_irs_maxsnr = 50.
 MIPS24 = 1.15E+01 +/- 2.92E-01 mJy
 IRAC1 = 5.13E+02 +/- 1.03E+01 mJy
 IRAC2 = 3.24E+02 +/- 6.49E+00 mJy

@@ -9,6 +9,8 @@ IUE = IUE_Data/hd029309_iue.fits
 SpeX_SXD = SpeX_Data/hd029309_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd029309_LXD_spex.fits
 IRS = IRS_Data/hd029309_irs.fits
+corfac_irs_maxwave = 33.0
+corfac_irs_maxsnr = 50.
 sptype = B2V ; sptype ref = Guetter 1968 (1968PASP...80..197G)
 uvsptype = B2V ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 MIPS24 = 3.54E+01 +/- 8.41E-01 mJy
@@ -20,7 +22,7 @@ IRS15 = 7.95E+01 +/- 1.62E+00 mJy
 # WISE1 = 5.948 +/- 0.119 ; WISE ref = IRSA AllWISE Source Catalog
 # WISE2 = 5.826 +/- 0.046
 # WISE3 = 5.911 +/- 0.015
-# WISE4 = 5.636 +/- 0.043 
+# WISE4 = 5.636 +/- 0.043
 # corfac_irs = 0.963
 # corfac_irs_slope = -0.001
 # corfac_irs_zerowave = 7.456

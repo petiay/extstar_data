@@ -15,7 +15,8 @@ STIS_Opt = STIS_Data/hd204827_stis_Opt.fits
 corfac_nir = 1.12
 sptype = B0V ; sptype ref = Morgan, Code & Whitford 1955 (1955ApJS....2...41M)
 uvsptype = B0V ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
-corfac_irs_maxwave = 30.0
+corfac_irs_maxwave = 32.0
+corfac_irs_maxsnr = 50.
 MIPS24 = 2.09E+01 +/- 4.98E-01 mJy
 IRAC1 = 8.76E+02 +/- 1.77E+01 mJy
 IRAC2 = 5.68E+02 +/- 1.19E+01 mJy

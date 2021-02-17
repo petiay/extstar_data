@@ -11,6 +11,8 @@ uvsptype = O9.5Ia ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 SpeX_SXD = SpeX_Data/hd166734_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd166734_LXD_spex.fits
 IRS = IRS_Data/hd166734_irs.fits
+corfac_irs_maxwave = 37.0
+corfac_irs_maxsnr = 50.
 MIPS24 = 1.59E+02 +/- 3.51E+00 mJy
 IRAC1 = 2.51E+03 +/- 5.03E+01 mJy
 IRAC2 = 1.74E+03 +/- 3.50E+01 mJy

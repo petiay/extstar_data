@@ -13,6 +13,8 @@ K = 6.940 +/- 0.018
 STIS_Opt = STIS_Data/hd197702_stis_Opt.fits
 IUE = IUE_Data/hd197702_iue.fits
 IRS = IRS_Data/hd197702_irs.fits
+corfac_irs_maxwave = 34.0
+corfac_irs_maxsnr = 50.
 sptype = B1III(n) ; ref = 2019ApJ...886..108F
 uvsptype = B2Ib
 MIPS24 = 2.18E+01 +/- 5.25E-01 mJy
