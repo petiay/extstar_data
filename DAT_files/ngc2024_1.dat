@@ -11,7 +11,7 @@ J = 7.342 +/- 0.034  ; JHK = 2MASS
 H = 6.518 +/- 0.026
 K = 5.941 +/- 0.021
 sptype = B0.5V
-IRS = IRS_Data/ngc2024_1_irs.fits
+# IRS = IRS_Data/ngc2024_1_irs.fits
 # MIPS24 = 0.00E+00 +/-     -NaN mJy
 IRAC1 = 1.70E+03 +/- 3.40E+01 mJy
 IRAC2 = 1.36E+03 +/- 2.72E+01 mJy

@@ -10,6 +10,8 @@ FUSE = FUSE_Data/hd206773_fuse.fits
 SpeX_SXD = SpeX_Data/hd206773_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd206773_LXD_spex.fits
 IRS = IRS_Data/hd206773_irs.fits
+corfac_irs_maxwave = 37.0
+corfac_irs_maxsnr = 50.
 sptype = B0V ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
 uvsptype = B0Ia
 MIPS24 = 1.23E+02 +/- 2.69E+00 mJy

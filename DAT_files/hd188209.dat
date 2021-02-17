@@ -13,6 +13,8 @@ IUE = IUE_Data/hd188209_iue.fits
 SpeX_SXD = SpeX_Data/hd188209_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd188209_LXD_spex.fits
 IRS = IRS_Data/hd188209_irs.fits
+corfac_irs_maxwave = 34.0
+corfac_irs_maxsnr = 50.
 sptype = O9.5Iab ; sptype ref = Sota+2011 (2011ApJS..193...24S)
 dered_FM = -0.65  0.90  3.20  0.49  4.59  1.00
 dered_RV = 3.1
