@@ -9,7 +9,7 @@ IUE = IUE_Data/hd096042_iue.fits
 # source extended
 IRS = IRS_Data/hd096042_irs.fits
 corfac_irs_maxwave = 37.0
-corfac_irs_maxsnr = 50.
+corfac_irs_maxsnr = 100.
 sptype = B1V
 uvsptype = B1.5V
 # IRS15 = 3.27E+01 +/- 7.98E-01 mJy

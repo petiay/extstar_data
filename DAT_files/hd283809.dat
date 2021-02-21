@@ -12,7 +12,7 @@ STIS = STIS_Data/hd283809_stis.fits
 IUE = STIS_Data/hd283809_stis.fits
 IRS = IRS_Data/hd283809_irs.fits
 corfac_irs_maxwave = 35.0
-corfac_irs_maxsnr = 50.
+corfac_irs_maxsnr = 100.
 sptype = B3V ; sptype ref = Murakawa+2000 (2000ApJS..128..603M)
 SpeX_SXD = SpeX_Data/hd283809_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd283809_LXD_spex.fits
