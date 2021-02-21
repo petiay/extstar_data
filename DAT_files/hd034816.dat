@@ -14,7 +14,7 @@ SpeX_SXD = SpeX_Data/hd034816_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd034816_LXD_spex.fits
 IRS = IRS_Data/hd034816_irs.fits
 corfac_irs_maxwave = 33.0
-corfac_irs_maxsnr = 50.
+corfac_irs_maxsnr = 100.
 sptype = B0.5IV ; sptype ref = Lesh 1968 (1968ApJS...17..371L)
 MIPS24 = 5.90E+01 +/- 1.29E+00 mJy
 IRAC1 = 2.59E+03 +/- 5.19E+01 mJy

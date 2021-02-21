@@ -15,7 +15,7 @@ sptype = B8III ; ref = 2019ApJ...886..108F
 uvsptype = B8III ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 IRS = IRS_Data/hd029647_irs.fits
 corfac_irs_maxwave = 37.0
-corfac_irs_maxsnr = 50.
+corfac_irs_maxsnr = 100.
 MIPS24 = 6.76E+01 +/- 1.89E+00 mJy
 # IRAC 1 and 2 seem off
 IRAC1 = 2.23E+03 +/- 4.45E+01 mJy

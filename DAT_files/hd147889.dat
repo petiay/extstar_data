@@ -11,7 +11,7 @@ sptype = B2V ; ref = 2019ApJ...886..108F
 uvsptype = B2V
 IRS = IRS_Data/hd147889_irs.fits
 corfac_irs_maxwave = 19.0
-corfac_irs_maxsnr = 50.
+corfac_irs_maxsnr = 100.
 MIPS24 = 1.68E+02 +/- 3.96E+00 mJy
 IRAC1 = 5.03E+03 +/- 1.01E+02 mJy
 IRAC2 = 3.37E+03 +/- 6.75E+01 mJy
