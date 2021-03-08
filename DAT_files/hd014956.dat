@@ -12,8 +12,8 @@ IUE = IUE_Data/hd014956_iue.fits
 SpeX_SXD = SpeX_Data/hd014956_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd014956_LXD_spex.fits
 IRS = IRS_Data/hd014956_irs.fits
-sptype = B2Ia ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
-uvsptype = B2Ib
+sptype = B2Ia ; sptype ref = Morgan, Code & Whitford 1955 (1955ApJS....2...41M)
+uvsptype = B2Ib ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 MIPS24 = 8.28E+01 +/- 1.89E+00 mJy
 IRAC1 = 2.32E+03 +/- 4.65E+01 mJy
 IRAC2 = 1.59E+03 +/- 3.20E+01 mJy
@@ -30,3 +30,5 @@ WISE4 = 4.868 +/- 0.031
 corfac_spex_SXD = 0.898
 LXD_man = True
 corfac_spex_LXD = .88
+spex_mask = [(4.79,5.08)]
+

@@ -8,10 +8,8 @@ J = 6.994 +/- 0.020 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 6.461 +/- 0.033
 K = 6.169 +/- 0.023
 STIS = STIS_Data/hd283809_stis.fits
-# added to allow IUE comparison stars
-IUE = STIS_Data/hd283809_stis.fits
 IRS = IRS_Data/hd283809_irs.fits
-sptype = B3V ; sptype ref = Murakawa+2000 (2000ApJS..128..603M)
+sptype = B3V ; sptype ref = Murakawa, Tamura & Nagata 2000 (2000ApJS..128..603M)
 SpeX_SXD = SpeX_Data/hd283809_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd283809_LXD_spex.fits
 MIPS24 = 2.85E+01 +/- 8.05E-01 mJy
@@ -30,3 +28,4 @@ WISE4 = 5.880 +/- 0.052
 corfac_spex_SXD = 1.304
 LXD_man = True
 corfac_spex_LXD = 1.09
+#spex_mask = [(1.347,1.410),(1.801,1.928),(2.529,2.86),(4.186,4.559)]
