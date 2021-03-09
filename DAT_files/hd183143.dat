@@ -17,4 +17,3 @@ sptype = B7Ia ; sptype ref = Morgan, Code & Whitford 1955 (1955ApJS....2...41M)
 corfac_spex_SXD = 0.593
 LXD_man = True
 corfac_spex_LXD = 0.62
-#spex_mask = [(1.347,1.411),(1.801,1.942),(2.546,2.86),(4.176,4.583)]
