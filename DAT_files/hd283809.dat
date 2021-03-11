@@ -28,4 +28,3 @@ WISE4 = 5.880 +/- 0.052
 corfac_spex_SXD = 1.304
 LXD_man = True
 corfac_spex_LXD = 1.09
-#spex_mask = [(1.347,1.410),(1.801,1.928),(2.529,2.86),(4.186,4.559)]

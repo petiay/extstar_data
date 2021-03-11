@@ -14,4 +14,3 @@ uvsptype = B0.5V ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 corfac_spex_SXD = 0.954
 LXD_man = True
 corfac_spex_LXD = 1.2
-#spex_mask = [(2.8,4.02)]

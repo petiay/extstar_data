@@ -34,4 +34,3 @@ corfac_irs = 0.95
 corfac_spex_SXD = 0.603
 LXD_man = True
 corfac_spex_LXD = 1.015
-#spex_mask = [(1.341,1.423),(1.799,1.926),(2.528,2.86),(4.182,4.563)]
