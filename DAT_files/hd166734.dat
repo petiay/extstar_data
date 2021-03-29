@@ -1,13 +1,13 @@
 # data file for observations of HD 166734
-V = 8.420 +/- 0.01  ; UBV ref = 1956ApJS....2..389
+V = 8.420 +/- 0.01 ; UBV ref = 1956ApJS....2..389
 (B-V) = 1.09 +/- 0.01
 (U-B) = -0.12 +/- 0.01
 J = 5.881 +/- 0.020 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 5.517 +/- 0.020
 K = 5.316 +/- 0.018
 IUE = IUE_Data/hd166734_iue.fits
-sptype = O8V ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
-uvsptype = O9.5Ia
+sptype = O7.5Iabf ; sptype ref = Sota+2011 (2011ApJS..193...24S)
+uvsptype = O9.5Ia ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 SpeX_SXD = SpeX_Data/hd166734_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd166734_LXD_spex.fits
 IRS = IRS_Data/hd166734_irs.fits
@@ -25,4 +25,4 @@ WISE4 = 4.174 +/- 0.032
 # corfac_irs_slope = 0.004
 # corfac_irs_zerowave = 7.480
 corfac_spex_SXD = 1.194
-corfac_spex_LXD = 2.209
+corfac_spex_LXD = 2.279

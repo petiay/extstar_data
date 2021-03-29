@@ -9,8 +9,8 @@ K = 5.751 +/- 0.027
 IUE = IUE_Data/hd037023_iue.fits
 SpeX_SXD = SpeX_Data/hd037023_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd037023_LXD_spex.fits
-sptype = B0.5V ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
-uvsptype = B0.5V
+sptype = B1.5Vp ; sptype ref = Levenhagen & Leister 2006 (2006MNRAS.371..252L)
+uvsptype = B0.5V ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 corfac_spex_SXD = 0.954
 LXD_man = True
 corfac_spex_LXD = 1.2

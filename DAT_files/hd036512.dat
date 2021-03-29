@@ -10,7 +10,7 @@ K = 5.376 +/- 0.023
 L = 5.65 +/- 0.02 ; L ref = 1966CoLPL...4...99J (source 1855 in table 2)
 IUE = IUE_Data/hd036512_iue.fits
 SpeX_SXD = SpeX_Data/hd036512_sxd_spex.fits
-sptype = B0V ; sptype ref = Walborn 1971 (1971ApJS...23..257W)
+sptype = B0V ; sptype ref = Lesh 1968 (1968ApJS...17..371L)
 dered_RV = 3.1
 dered_AV = 0.12
 dered_FM = -0.24  0.74  3.56  0.52  4.59  1.00

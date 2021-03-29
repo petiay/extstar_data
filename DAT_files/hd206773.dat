@@ -10,8 +10,8 @@ FUSE = FUSE_Data/hd206773_fuse.fits
 SpeX_SXD = SpeX_Data/hd206773_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd206773_LXD_spex.fits
 IRS = IRS_Data/hd206773_irs.fits
-sptype = B0V ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
-uvsptype = B0Ia
+sptype = B0V:pe ; sptype ref = Morgan, Code & Whitford 1955 (1955ApJS....2...41M)
+uvsptype = B0Ia ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 MIPS24 = 1.23E+02 +/- 2.69E+00 mJy
 IRAC1 = 1.15E+03 +/- 2.32E+01 mJy
 IRAC2 = 8.30E+02 +/- 1.69E+01 mJy
