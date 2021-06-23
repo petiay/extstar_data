@@ -8,7 +8,7 @@ K = 5.581 +/- 0.016
 IUE = IUE_Data/hd034759_iue.fits
 SpeX_SXD = SpeX_Data/hd034759_sxd_spex.fits
 SpeX_LXD = SpeX_Data/hd034759_lxd_spex.fits
-sptype = B5V ; sptype ref = Morgan & Keenan 1973 (1973ARA&A..11...29M)
+sptype = B5V ; sptype ref = Lesh 1968 (1968ApJS...17..371L)
 WISE1 = 5.717 +/- 0.139 ; WISE ref = IRSA AllWISE Source Catalog
 WISE2 = 5.555 +/- 0.053
 WISE3 = 5.724 +/- 0.015

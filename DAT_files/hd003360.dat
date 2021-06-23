@@ -7,7 +7,7 @@ I = 3.95 +/- 0.03
 J = 4.135 +/- 0.300 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 4.248 +/- 0.254
 K = 4.247 +/- 0.036
-sptype = B2IV ; sptype ref = Morgan & Keenan 1973 (1973ARA&A..11...29M)
+sptype = B2IV ; sptype ref = Lesh 1968 (1968ApJS...17..371L)
 SpeX_SXD = SpeX_Data/hd003360_sxd_spex.fits
 SpeX_LXD = SpeX_Data/hd003360_lxd_spex.fits
 WISE1 = 4.299 +/- 0.305 ; WISE ref = IRSA AllWISE Source Catalog
@@ -17,3 +17,4 @@ WISE4 = 4.270 +/- 0.023
 corfac_spex_SXD = 1.199
 LXD_man = True
 corfac_spex_LXD = 1.115
+spex_mask = [(1.347,1.42),(1.798,1.942),(2.529,2.86)]

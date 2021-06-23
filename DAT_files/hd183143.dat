@@ -13,7 +13,7 @@ WISE1 = 3.307 +/- 0.478 ; WISE ref = IRSA AllWISE Source Catalog
 WISE2 = 2.817 +/- 0.483
 WISE3 = 3.053 +/- 0.012
 WISE4 = 2.768 +/- 0.021
-sptype = B7Iae ; sptype ref = Hobbs+2009 (2009ApJ...705...32H)
+sptype = B7Ia ; sptype ref = Morgan, Code & Whitford 1955 (1955ApJS....2...41M)
 corfac_spex_SXD = 0.593
 LXD_man = True
 corfac_spex_LXD = 0.62

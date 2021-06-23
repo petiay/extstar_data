@@ -11,8 +11,8 @@ SpeX_SXD = SpeX_Data/hd014422_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd014422_LXD_spex.fits
 # all Spitzer too high by 2 mags (wrong star?)
 # IRS = IRS_Data/hd014422_irs.fits
-sptype = B1V ; (uv)sptype ref = Valencic+2004 (2004ApJ...616..912V)
-uvsptype = B0.5IV
+sptype = B1V:pe ; sptype ref = Morgan, Code & Whitford 1955 (1955ApJS....2...41M)
+uvsptype = B0.5IV ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 # MIPS24 = 3.30E+01 +/- 9.73E-01 mJy
 # IRAC1 = 6.72E+02 +/- 1.35E+01 mJy
 # IRAC2 = 5.09E+02 +/- 1.02E+01 mJy

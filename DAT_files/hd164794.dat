@@ -10,7 +10,7 @@ K = 5.731 +/- 0.024
 IUE = IUE_Data/hd164794_iue.fits
 SpeX_SXD = SpeX_Data/hd164794_sxd_spex.fits
 SpeX_LXD = SpeX_Data/hd164794_lxd_spex.fits
-sptype = O4V((f)) ; sptype ref = Aidelman+2018 (2018A&A...610A..30A)
+sptype = O4V((f))z ; sptype ref = Sota+2014 (2014ApJS..211...10S)
 dered_RV = 3.1
 dered_AV = 0.85
 dered_FM = -0.24  0.74  4.0  0.25  4.59  1.00

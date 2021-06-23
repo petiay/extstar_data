@@ -15,7 +15,7 @@ IRS = IRS_Data/hd214680_irs.fits
 SpeX_SXD = SpeX_Data/hd214680_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd214680_LXD_spex.fits
 corfac_nir = 0.85
-sptype = O9V ; sptype ref = Sota+2011 (2011ApJS..193...24S)
+sptype = O9V ; sptype ref = Lesh 1968 (1968ApJS...17..371L)
 dered_RV = 3.1
 dered_AV = 0.34
 dered_FM = -0.80  0.95  2.72  0.53  4.59  1.00
