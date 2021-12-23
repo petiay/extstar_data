@@ -1,5 +1,5 @@
 # data file for observations of HD 36512 (IUE standard)
-V = 4.62 +/- 0.02 ; UBVRI ref = 1966CoLPL...4...99J
+V = 4.62 +/- 0.02 ; UBVRI ref = Johnson+1966 (1966CoLPL...4...99J, source 1855)
 (B-V) = -0.26 +/- 0.02
 (U-B) = -1.07 +/- 0.02
 R = 4.74 +/- 0.02
@@ -22,7 +22,7 @@ IRAC2 = 1.14E+03 +/- 2.31E+01 mJy
 IRAC3 = 7.57E+02 +/- 1.70E+01 mJy
 IRAC4 = 3.86E+02 +/- 8.04E+00 mJy
 IRS15 = 9.14E+01 +/- 1.91E+00 mJy
-# IRSA catalog flags W1 and W2 as contaminated by scattered light halo.
+# WISE 1 and 2 have saturated pixels, contaminated by scattered light halo
 WISE1 = 5.497 +/- 0.169 ; WISE ref = IRSA AllWISE Source Catalog
 WISE2 = 5.401 +/- 0.058
 WISE3 = 5.620 +/- 0.014
@@ -33,3 +33,4 @@ corfac_irs = 0.925
 # corfac_irs_zerowave = 7.465
 corfac_spex_SXD = 1.050
 corfac_spex_LXD = None
+spex_mask = [(1.347,1.421),(1.799,1.95)]

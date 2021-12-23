@@ -1,7 +1,7 @@
 # data file for observations of HD 185418
-V = 7.450 +/- 0.010
-B = 7.670 +/- 0.010
-U = 7.000 +/- 0.010
+V = 7.45 +/- 0.01 ; UBV ref = Valencic+2004 (2004ApJ...616..912V)
+B = 7.67 +/- 0.01
+U = 7.00 +/- 0.01
 J = 7.033 +/- 0.023 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 7.091 +/- 0.040
 K = 7.086 +/- 0.023
@@ -9,8 +9,11 @@ IUE = IUE_Data/hd185418_iue.fits
 FUSE = FUSE_Data/hd185418_fuse.fits
 SpeX_SXD = SpeX_Data/hd185418_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd185418_LXD_spex.fits
+# WISE 1 has saturated pixels
 WISE1 = 7.007 +/- 0.041 ; WISE ref = IRSA AllWISE Source Catalog
+# WISE 2 and 4 contaminated by scattered light halo
 WISE2 = 7.126 +/- 0.019
+# WISE 3 contaminated by diffraction spike from nearby bright star
 WISE3 = 7.249 +/- 0.019
 WISE4 = 7.477 +/- 0.139 
 sptype = B0.5V ; sptype ref = Morgan, Code & Whitford 1955 (1955ApJS....2...41M)
@@ -18,4 +21,4 @@ uvsptype = B0.5III ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 corfac_spex_SXD = 1.002
 LXD_man = True
 corfac_spex_LXD = 0.79
-spex_mask = [(3.55,4.02)]
+spex_mask = [(1.347,1.36),(1.797,1.956),(3.568,5.2)]
