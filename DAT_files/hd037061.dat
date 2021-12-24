@@ -1,7 +1,8 @@
 # data file for observations of HD 37061
-V = 6.830 +/- 0.010
-B = 7.090 +/- 0.010
-U = 6.400 +/- 0.010
+V = 6.83 +/- 0.01 ; UBV ref = Valencic+2004 (2004ApJ...616..912V)
+B = 7.09 +/- 0.01
+U = 6.40 +/- 0.01
+# 2MASS JHK suffer from extended source contamination
 J = 5.752 +/- 0.027 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 5.588 +/- 0.040
 K = 5.490 +/- 0.021
@@ -11,8 +12,14 @@ SpeX_LXD = SpeX_Data/hd037061_LXD_spex.fits
 sptype = B1V ; sptype ref = Sharpless 1952 (1952ApJ...116..251S)
 uvsptype = B0V ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 # There seems to be a problem with the WISE data, probably wrong source.
+# WISE have extended source contamination
+# WISE 1, 2 and 3 have saturated pixels
+# WISE 1 contaminated by scattered light halo
 # WISE1 = 8.407 +/- 0.249 ; WISE ref = IRSA AllWISE Source Catalog
+# WISE 2 contaminated by diffraction spike from nearby bright star
 # WISE2 = 6.755 +/- 0.117
+# WISE 3 and 4 spurious detection of diffraction spike from nearby bright star
 corfac_spex_SXD = 1.007
 LXD_man = True
-corfac_spex_LXD = 0.98
+corfac_spex_LXD = 0.985
+spex_mask = [(0.805,0.8057),(1.343,1.42),(1.798,1.957),(2.87,2.883),(3.995,4.02)]
