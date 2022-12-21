@@ -10,5 +10,5 @@ F336W = 17.83 +/- 0.01
 F439W = 19.35 +/- 0.01
 F555W = 19.38 +/- 0.01
 F814W = 19.27 +/- 0.02
-STIS = STIS_Data/j004412.97+413328.8_stis.fits
+STIS = STIS_Data/j004412.97+413328.8_stis_UV.fits
 sptype = O8.5Ia(f)
