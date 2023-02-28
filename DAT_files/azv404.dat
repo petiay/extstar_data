@@ -7,5 +7,5 @@ V = 12.197 +/- 0.009  ; UBVI ref = Gordon03
 J = 12.45 +/- 0.01  ; JHK ref = IRSF = II/288/out
 H = 12.47 +/- 0.01
 K = 12.51 +/- 0.01
-IUE = STIS_Data/azv404_stis.fits
+IUE = IUE_Data/azv404_iue.fits
 #sptype = B0.5III
