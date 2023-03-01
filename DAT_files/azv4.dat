@@ -6,5 +6,5 @@ I = 13.679 +/- 0.051
 J = 13.59 +/- 0.02  ; JHK ref = IRSF = II/288/out
 H = 13.51 +/- 0.01
 K = 13.36 +/- 0.02
-IUE = STIS_Data/azv4_stis.fits
+STIS = STIS_Data/azv4_stis.fits
 #sptype = B0.5III
