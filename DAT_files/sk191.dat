@@ -1,0 +1,9 @@
+# data file for observations of Sk 191
+V = 11.860 +/- 0.020  ; UBVI ref = Ardeberg & Maurice (1977)
+(B-V) = -0.040 +/- 0.025
+(U-B) = -0.850 +/- 0.025
+J = 12.04 +/- 0.02  ; JHK ref = IRSF = II/288/out
+H = 12.02 +/- 0.01
+K = 12.02 +/- 0.02
+IUE = IUE_Data/sk191_iue.fits
+sptype = B1.5Ia
