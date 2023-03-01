@@ -13,5 +13,5 @@ dered_RV_unc = 1.55
 dered_AV = 0.1
 dered_AV_unc = 0.04
 dered_FM = -0.24  0.74  2.00  0.42  4.59  1.00
-dered_FM_unc_fac = 0.50 0.50  0.5  0.50  0.10  0.20
+dered_FM_unc_fac = 0.50  0.50  0.5  0.50  0.10  0.20
 #instrinsic (B-V) = -0.21 -> E(B-V) = 0.04
