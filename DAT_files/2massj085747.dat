@@ -4,4 +4,3 @@ J = 10.019 +/- 0.022  ; JHK ref = 2MASS
 H = 9.612 +/- 0.021
 K = 9.389 +/- 0.019
 STIS_Opt = STIS_Data/gsc-01852-02121_stis_Opt.fits
-#sptype = ??

@@ -5,5 +5,5 @@ J = 7.255 +/- 0.024  ; JHK ref = 2MASS
 H = 6.915 +/- 0.034
 K = 6.630 +/- 0.020
 STIS_Opt = STIS_Data/cpd-59d5831_stis_Opt.fits
-STIS = STIS_Data/cpd-59d5831_stis_UV.fits
-MIRI_IFU = MIRI_Data/cpd-59d5831_miri_ifu.fits
+STIS = STIS_Data/cpd-59-5831_stis_UV.fits
+#MIRI_IFU = MIRI_Data/cpd-59d5831_miri_ifu.fits

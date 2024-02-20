@@ -1,0 +1,8 @@
+# data file for observations of 2MASS J18230252 -1320387
+B = 12.65 +/- 0.01  ; 2000A&A...355L..27H
+V = 11.26 +/- 0.01 
+J = 7.689 +/- 0.029   ; JHK ref = 2MASS
+H = 7.21 +/- 0.03
+K = 6.963 +/- 0.016
+STIS = STIS_Data/ls-4992_stis_UV.fits
+STIS_Opt = STIS_Data/ls-4992_stis_Opt.fits
