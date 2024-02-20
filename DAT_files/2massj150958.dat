@@ -1,0 +1,9 @@
+# data file for observations of 2MASS J15095841-5958463
+B = 11.50 +/- 0.10  ; 2000A&A...355L..27H
+V = 10.27 +/- 0.05
+J = 7.255 +/- 0.024  ; JHK ref = 2MASS
+H = 6.915 +/- 0.034
+K = 6.630 +/- 0.020
+STIS_Opt = STIS_Data/cpd-59d5831_stis_Opt.fits
+STIS = STIS_Data/cpd-59-5831_stis_UV.fits
+#MIRI_IFU = MIRI_Data/cpd-59d5831_miri_ifu.fits
