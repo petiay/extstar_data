@@ -4,5 +4,5 @@ V = 11.09 +/- 0.05
 J = 7.968 +/- 0.020   ; JHK ref = 2MASS
 H = 7.556 +/- 0.017
 K = 7.365 +/- 0.016
-STIS = STIS_Data/schulte-1_stis_UV.fits
-STIS_Opt = STIS_Data/schulte-1_stis_Opt.fits
+STIS = STIS_Data/2massj203110_stis_UV.fits
+STIS_Opt = STIS_Data/2massj203110_stis_Opt.fits
