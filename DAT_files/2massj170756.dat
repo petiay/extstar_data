@@ -4,5 +4,5 @@ V = 10.88 +/- 0.01
 J = 7.193 +/- 0.024   ; JHK ref = 2MASS
 H = 6.78 +/- 0.046
 K = 6.462 +/- 0.033
-STIS = STIS_Data/cd-40-11169_stis_UV.fits
-STIS_Opt = STIS_Data/cd-40-11169_stis_Opt.fits
+STIS = STIS_Data/2massj170756_stis_UV.fits
+STIS_Opt = STIS_Data/2massj170756_stis_Opt.fits

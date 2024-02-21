@@ -2,4 +2,4 @@
 J = 9.769 +/- 0.020   ; JHK ref = 2MASS
 H = 9.217 +/- 0.017
 K = 8.939 +/- 0.022
-STIS_Opt = STIS_Data/2mass-J20452110+4223513_stis_Opt.fits
+STIS_Opt = STIS_Data/2massj204521_stis_Opt.fits
