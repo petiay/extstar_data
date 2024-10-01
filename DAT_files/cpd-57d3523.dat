@@ -1,0 +1,6 @@
+# data file for observations of CPD-57 3523
+U = 7.19 +/- 0.03 ; ref = 2003AJ....125.2531R, default uncertainty 0.03 used due to no reference
+B = 8.05 +/- 0.03 ; BV ref = https://simbad.u-strasbg.fr/simbad/sim-basic?Ident=CPD-57+3523&submit=SIMBAD+search
+V = 8.03 +/- 0.03
+STIS_Opt = STIS_Data/cpd-57d3523_stis_Opt.fits
+sptype = B1III ; ref = 2019ApJ...886..108F

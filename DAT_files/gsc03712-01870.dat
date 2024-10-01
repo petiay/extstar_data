@@ -1,0 +1,10 @@
+# data file for observations of GSC03712-01870
+V = 13.02 +/- 0.03
+B = 13.73 +/- 0.03 ; BV ref = https://simbad.cds.unistra.fr/simbad/, default uncertainty of 0.03 due to no reference
+U = 13.32 +/- 0.03 ; ref = 2003AJ....125.2531R
+J = 11.448 +/- 0.024 ; JHK ref = 2003yCat.2246....0C
+H = 11.29 +/- 0.03
+K = 11.160 +/- 0.024
+G = 12.784429 +/- 0.002773 ; ref = 2020yCat.1350....0G
+STIS_Opt = STIS_Data/gsc03712-01870_stis_Opt.fits
+sptype = O5+ ; ref = 2019ApJ...886..108F

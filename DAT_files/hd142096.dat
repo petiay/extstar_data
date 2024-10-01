@@ -1,0 +1,9 @@
+# data file for observations of HD 142096
+U = 4.43 +/- 0.02 ; UBV ref = 2003AJ....125.2531R, default uncertainty 0.02 used
+B = 4.997 +/- 0.014
+V = 5.027 +/- 0.009
+J = 4.987 +/- 0.037
+H = 5.001 +/- 0.027 ; JHK ref = 2003yCat.2246....0C
+K = 4.903 +/- 0.021
+STIS_Opt = STIS_Data/hd142096_stis_Opt.fits
+sptype = B2.5V ; ref = 2019ApJ...886..108F

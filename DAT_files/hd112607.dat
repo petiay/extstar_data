@@ -1,0 +1,10 @@
+# data file for observations of HD 112607
+U = 7.98 +/- 0.03 ; ref = 2003AJ....125.2531R, default uncertainty of 0.03 used due to no ref uncertainty
+B = 8.24 +/- 0.03 ; BV ref = https://simbad.cds.unistra.fr/simbad/, default uncertainty of 0.03 used due to no ref uncertainty
+V = 8.10 +/- 0.03
+G = 8.033070 +/- 0.002770 ; ref = 2020yCat.1350....0G
+J = 7.615 +/- 0.029 ; JHK ref = 2003yCat.2246....0C
+H = 7.585 +/- 0.027
+K = 7.562 +/- 0.026
+STIS_Opt = STIS_Data/hd112607_stis_Opt.fits
+sptype = B7/B8III ; ref = 2019ApJ...886..108F

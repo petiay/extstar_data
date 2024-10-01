@@ -1,0 +1,9 @@
+# data file for observations of HD 17443
+B = 9.04 +/- 0.03 ; BV ref = https://simbad.cds.unistra.fr/simbad/, default uncertainty 0.03 used
+V = 8.75 +/- 0.03
+G = 8.714512 +/- 0.002762 ; ref = 2022yCat.1355....0G
+J = 8.131 +/- 0.030 ; JHK ref = 2003yCat.2246....0C
+H = 8.084 +/- 0.033
+K = 7.994 +/- 0.020
+STIS_Opt = STIS_Data/hd17443_stis_Opt.fits
+sptype = B9V ; ref = 2019ApJ...886..108F

@@ -1,0 +1,9 @@
+# data file for observations of BD+69 1231
+B = 9.41 +/- 0.03 ; BV ref = https://simbad.cds.unistra.fr/simbad/i, default uncertainty used due to no ref uncertainty
+V = 9.29 +/- 0.03
+G = 9.244973 +/- 0.002765 ; ref = 2020yCat.1350....0G
+J = 8.896 +/- 0.027 ; JHK ref = 2003yCat.2246....0C
+H = 8.878 +/- 0.03
+K = 8.818 +/- 0.019
+STIS_Opt = STIS_Data/bd+69d1231_stis_Opt.fits
+sptype = B9.5V ; ref = 2019ApJ...886..108F

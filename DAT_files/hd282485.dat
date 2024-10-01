@@ -1,0 +1,9 @@
+# data file for observations of HD 282485
+B = 10.10 +/- 0.03 ; ref = https://simbad.cds.unistra.fr/simbad/, default uncertainy used due to no ref uncertainty
+V = 9.9 +/- 0.03; ref = 1954ArA.....1..425A, default uncertainy used due to no ref uncertainty
+G = 9.746779 +/- 0.002762 ; ref = 2020yCat.1350....0G
+J = 9.061 +/- 0.018 ; JHK ref = 2003yCat.2246....0C
+H = 9.012 +/- 0.040
+K = 8.956 +/- 0.017
+STIS_Opt = STIS_Data/hd282485_stis_Opt.fits
+sptype = B9V ; ref = 2019ApJ...886..108F

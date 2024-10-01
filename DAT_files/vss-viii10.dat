@@ -1,0 +1,5 @@
+# data file for observations of VSS VIII-10
+V = 10.71 +/- 0.05
+B = 10.07 +/- 0.05 ; ref = https://simbad.cds.unistra.fr/simbad/sim-basic?Ident=vss+viii-10&submit=SIMBAD+search, default uncertainty used due to no ref uncertainty
+STIS_Opt = STIS_Data/vss-viii10_stis_Opt.fits
+sptype = B1V ; ref = https://simbad.cds.unistra.fr/simbad/sim-basic?Ident=vss+viii-10&submit=SIMBAD+search
