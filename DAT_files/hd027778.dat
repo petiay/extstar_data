@@ -8,5 +8,5 @@ K = 5.930 +/- 0.020
 IUE = IUE_Data/hd027778_iue.fits
 FUSE = FUSE_Data/hd027778_fuse.fits
 STIS_Opt = STIS_Data/hd27778_stis_Opt.fits
-sptype = B3V
+sptype = B3V ; ref = 2019ApJ...886..108F
 uvsptype = B5V

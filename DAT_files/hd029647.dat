@@ -7,10 +7,11 @@ V = 8.31 +/- 0.017 ; UBVRI ref = Slutskij, Stalbovskij & Shevchenko 1980 (1980Sv
 J = 5.960 +/- 0.030 ; JHK ref = IRSA 2MASS All-Sky Point Source Catalog
 H = 5.593 +/- 0.021
 K = 5.363 +/- 0.020
+STIS_Opt = STIS_Data/hd29647_stis_Opt.fits
 IUE = IUE_Data/hd029647_iue.fits
 SpeX_SXD = SpeX_Data/hd029647_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd029647_LXD_spex.fits
-sptype = B7IV ; sptype ref = Murakawa, Tamura & Nagata 2000 (2000ApJS..128..603M)
+sptype = B8III ; ref = 2019ApJ...886..108F
 uvsptype = B8III ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 IRS = IRS_Data/hd029647_irs.fits
 MIPS24 = 6.76E+01 +/- 1.89E+00 mJy

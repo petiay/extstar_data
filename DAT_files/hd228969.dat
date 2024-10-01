@@ -5,6 +5,7 @@ U = 10.020 +/- 0.010
 J = 7.980 +/- 0.020
 H = 7.800 +/- 0.030
 K = 0.000 +/- 0.000
+STIS_Opt = STIS_Data/hd228969_stis_Opt.fits
 IUE = IUE_Data/hd228969_iue.fits
-sptype = B2II
+sptype = B2II ; ref = 2019ApJ...886..108F
 uvsptype = B0III
