@@ -1,0 +1,8 @@
+# data file for observations of HD 30122
+B = 6.386 +/- 0.015 ; BV ref = 2000A&A...355L..27H
+V = 6.329 +/- 0.010
+J = 6.075 +/- 0.018 ; JHK ref = 2022yCat.1355....0G
+H = 6.106 +/- 0.021
+K = 6.099 +/- 0.018
+STIS_Opt = STIS_Data/hd30122_stis_Opt.fits
+sptype = B5III ; ref = 2019ApJ...886..108F

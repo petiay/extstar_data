@@ -1,0 +1,11 @@
+# data file for observations of CPD-59 2591
+U = 10.726 +/- 0.03 ; UBVI ref = 2012AJ....143...41H, default uncertainty of 0.03 added due to no ref uncertainty
+B = 11.312 +/- 0.03
+V = 10.851 +/- 0.008
+G = 10.627538 +/- 0.002788 ; ref = 2020yCat.1350....0G
+I = 9.975
+J = 9.384 +/- 0.021 ; JHK ref = 2003yCat.2246....0C
+H = 9.142 +/- 0.021
+K = 9.007 +/- 0.020
+STIS_Opt = STIS_Data/cpd-59d2591_stis_Opt.fits
+sptype = O8.5V+BO.5 ; ref = 2014ApJS..211...10S

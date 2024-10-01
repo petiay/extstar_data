@@ -1,0 +1,5 @@
+# data file for observations of BD+71 92
+B = 10.44 +/- 0.05 ; BV ref = https://simbad.cds.unistra.fr/simbad/, default uncertainty used due to no reference uncertainty
+V = 10.28 +/- 0.05
+G = 10.251820 +/- 0.002769 ; ref = 2020yCat.1350....0G
+STIS_Opt = STIS_Data/bd_71d92_stis_Opt.fits 

@@ -1,0 +1,9 @@
+# data file for observations of HD 210072
+U = 7.6 +/- 0.02 ; ref = 2003AJ....125.2531R, default uncertainty 0.02 used
+B = 7.88 +/- 0.02 ; BV ref = https://simbad.u-strasbg.fr/simbad/sim-basic?Ident=HD+210072&submit=SIMBAD+search
+V = 7.64 +/- 0.02 ;
+J = 7.044 +/- 0.034 ; JHK ref = 2003yCat.2246....0C
+H = 7.016 +/- 0.049
+K = 6.985 +/- 0.023
+STIS_Opt = STIS_Data/hd210072_stis_Opt.fits
+sptype = B2V ; ref = 2019ApJ...886..108F
