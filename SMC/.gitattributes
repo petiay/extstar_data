@@ -25,3 +25,8 @@ STIS_Data/azv404_stis.fits filter=lfs diff=lfs merge=lfs -text
 STIS_Data/ngc330-116_stis.fits filter=lfs diff=lfs merge=lfs -text
 IUE_Data/bbb-smc280_iue.fits filter=lfs diff=lfs merge=lfs -text
 IUE_Data/sk191_iue.fits filter=lfs diff=lfs merge=lfs -text
+MIRI_Data/azv175_miri_lrs.fits filter=lfs diff=lfs merge=lfs -text
+MIRI_Data/azv18_miri_lrs.fits filter=lfs diff=lfs merge=lfs -text
+MIRI_Data/azv210_miri_lrs.fits filter=lfs diff=lfs merge=lfs -text
+MIRI_Data/azv23_miri_lrs.fits filter=lfs diff=lfs merge=lfs -text
+MIRI_Data/azv456_miri_lrs.fits filter=lfs diff=lfs merge=lfs -text
