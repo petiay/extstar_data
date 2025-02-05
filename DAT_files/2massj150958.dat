@@ -6,4 +6,5 @@ H = 6.915 +/- 0.034
 K = 6.630 +/- 0.020
 STIS_Opt = STIS_Data/2massj150958_stis_Opt.fits
 STIS = STIS_Data/2massj150958_stis_UV.fits
-#MIRI_IFU = MIRI_Data/cpd-59d5831_miri_ifu.fits
+MIRI_IFU = MIRI_Data/2massj150958_miri_ifu.fits
+NIRCam_SS = NIRCam_Data/2massj150958_nircam_ss.fits

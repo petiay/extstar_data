@@ -7,5 +7,13 @@ V = 12.888 +/- 0.019  ; UBVI ref = Gordon03
 J = 12.82 +/- 0.01  ; JHK ref = IRSF = II/288/out
 H = 12.83 +/- 0.01
 K = 12.83 +/- 0.02
+#IRAC1 = 12.737 +/- 0.048
+#IRAC2 = 12.715 +/- 0.041
+#IRAC3 = 12.665 +/- 0.058
+#IRAC4 = 12.592 +/- 0.081
 IUE = IUE_Data/azv456_iue.fits
+#MIRI_LRS = MIRI_Data/azv456_miri_lrs.fits
 #sptype = B0.5III
+Teff = 34500.0
+logg = 4.3
+Z = 0.2
