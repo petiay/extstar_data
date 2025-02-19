@@ -4,7 +4,14 @@ V = 10.27 +/- 0.05
 J = 7.255 +/- 0.024  ; JHK ref = 2MASS
 H = 6.915 +/- 0.034
 K = 6.630 +/- 0.020
+WISE1 = 6.477 +/- 0.068 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 6.367 +/- 0.026
+WISE3 = 6.400 +/- 0.018
+WISE4 = 6.205 +/- 0.049
 STIS_Opt = STIS_Data/2massj150958_stis_Opt.fits
 STIS = STIS_Data/2massj150958_stis_UV.fits
 MIRI_IFU = MIRI_Data/2massj150958_miri_ifu.fits
 NIRCam_SS = NIRCam_Data/2massj150958_nircam_ss.fits
+Teff = 15000.0
+logg = 2.4
+Z = 1.0
