@@ -4,4 +4,18 @@ V = 14.78 +/- 0.05
 J = 10.169 +/- 0.020   ; JHK ref = 2MASS
 H = 9.597 +/- 0.016
 K = 9.282 +/- 0.016
+# Spitzer ref SEIP source catalog
+IRAC2 = 4.363E+01 +/- 2.101E-02 mJy
+IRAC3 = 2.833E+01 +/- 3.821E-02 mJy
+IRAC4 = 1.496E+01 +/- 2.803E-02 mJy
+# WISE ref = IRSA AllWISE Source Catalog
+WISE1 = 9.102 +/- 0.023
+WISE2 = 9.054 +/- 0.021
+WISE3 = 8.987 +/- 0.099
+#WISE4 = 8.731 +/- 0.000 ; Low SNR -4.4
 STIS_Opt = STIS_Data/2massj203311_stis_Opt.fits
+MIRI_IFU = MIRI_Data/2massj203311_miri_ifu.fits
+NIRCam_SS = NIRCam_Data/2massj203311_nircam_ss.fits
+Teff = 31900.0
+logg = 3.9
+Z = 1.0
