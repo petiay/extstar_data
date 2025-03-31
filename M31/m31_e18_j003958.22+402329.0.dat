@@ -6,3 +6,5 @@ V = 18.968 +/- 0.003
 (R-I) = 0.068 +/- 0.003
 STIS = STIS_Data/j003958.22+402329.0_stis_UV.fits
 sptype = B0.7Ia
+Teff = 20000.0
+logg = 2.3

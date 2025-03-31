@@ -12,3 +12,5 @@ F555W = 18.73 +/- 0.01
 F814W = 18.39 +/- 0.01
 STIS = STIS_Data/j004034.61+404326.1_stis_UV.fits
 sptype = B1Ia
+Teff = 21000.0
+logg = 2.3
