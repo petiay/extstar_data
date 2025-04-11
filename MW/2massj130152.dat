@@ -1,0 +1,17 @@
+# data file for observations of 2MASS J13015278-6131045
+B = 12.79 +/- 0.04  ; 2012yCat.1322....0Z
+V = 11.28 +/- 0.06 
+J = 7.704 +/- 0.026   ; JHK ref = 2012yCat.1322....0Z
+H = 7.25 +/- 0.05
+K = 6.991 +/- 0.023
+WISE1 = 6.571 +/- 0.035 ; WISE ref = IRSA AllWISE Source Catalog
+WISE2 = 6.663 +/- 0.019
+WISE3 = 6.681 +/- 0.018
+WISE4 = 6.566 +/- 0.054
+STIS = STIS_Data/2massj130152_stis_UV.fits
+STIS_Opt = STIS_Data/2massj130152_stis_Opt.fits
+MIRI_IFU = MIRI_Data/2massj130152_miri_ifu.fits
+NIRCam_SS = NIRCam_Data/2massj130152_nircam_ss.fits
+Teff = 25800.0
+logg = 3.3
+Z = 1.0

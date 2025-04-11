@@ -1,0 +1,22 @@
+# data file for observations of 2MASS J20311055 +4131535
+B = 12.69 +/- 0.06  ; 2012yCat.1322....0Z
+V = 11.09 +/- 0.05 
+J = 7.968 +/- 0.020   ; JHK ref = 2MASS
+H = 7.556 +/- 0.017
+K = 7.365 +/- 0.016
+IRAC1 = 3.594E+02 +/- 5.004E-02 mJy ; Spitzer ref SEIP source catalog
+IRAC2 = 2.320E+02 +/- 4.486E-02 mJy
+IRAC3 = 1.571E+02 +/- 7.426E-02 mJy
+IRAC4 = 8.549E+01 +/- 3.669E-02 mJy
+# WISE ref = IRSA AllWISE Source Catalog
+WISE1 = 7.135 +/- 0.038
+WISE2 = 7.179 +/- 0.022
+WISE3 = 7.350 +/- 0.023
+#WISE4 = 7.227 +/- 0.000 ; Low SNR 0.9
+STIS = STIS_Data/2massj203110_stis_UV.fits
+STIS_Opt = STIS_Data/2massj203110_stis_Opt.fits
+MIRI_IFU = MIRI_Data/2massj203110_miri_ifu.fits
+NIRCam_SS = NIRCam_Data/2massj203110_nircam_ss.fits
+Teff = 32600.0
+logg = 3.4
+Z = 1.0

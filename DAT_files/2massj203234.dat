@@ -1,5 +1,0 @@
-# data file for observations of 2MASS J20323486 +4056174
-J = 9.382 +/- 0.021   ; JHK ref = 2MASS
-H = 8.858 +/- 0.017
-K = 8.564 +/- 0.016
-STIS_Opt = STIS_Data/2massj203234_stis_Opt.fits
