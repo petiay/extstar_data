@@ -8,6 +8,7 @@ K = 5.503 +/- 0.017
 sptype = O6If
 IRS = IRS_Data/vicyg8a_irs.fits
 corfac_irs_maxwave = 16.0
+corfac_irs_maxsnr = 100.
 # MIPS24 = 0.00E+00 +/-     -NaN mJy
 IRAC1 = 2.12E+03 +/- 4.25E+01 mJy
 IRAC2 = 1.45E+03 +/- 2.90E+01 mJy

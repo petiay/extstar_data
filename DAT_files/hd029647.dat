@@ -14,6 +14,8 @@ SpeX_LXD = SpeX_Data/hd029647_LXD_spex.fits
 sptype = B8III ; ref = 2019ApJ...886..108F
 uvsptype = B8III ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 IRS = IRS_Data/hd029647_irs.fits
+corfac_irs_maxwave = 37.0
+corfac_irs_maxsnr = 100.
 MIPS24 = 6.76E+01 +/- 1.89E+00 mJy
 # IRAC 1 and 2 seem off
 IRAC1 = 2.23E+03 +/- 4.45E+01 mJy
@@ -21,13 +23,10 @@ IRAC2 = 1.50E+03 +/- 3.00E+01 mJy
 IRAC3 = 1.06E+03 +/- 2.16E+01 mJy
 IRAC4 = 5.42E+02 +/- 1.09E+01 mJy
 IRS15 = 3.14E+02 +/- 6.51E+00 mJy
-# WISE have extended source contamination, contaminated by scattered moonlight
-# WISE 1, 2 and 3 spurious detection of scattered light halo
-# WISE 1 and 2 seem off, have saturated pixels
-WISE1 = 5.179 +/- 0.150 ; WISE ref = IRSA AllWISE Source Catalog
-WISE2 = 4.905 +/- 0.068
-WISE3 = 4.882 +/- 0.023
-WISE4 = 3.821 +/- 0.033
+# WISE1 = 5.179 +/- 0.150 ; WISE ref = IRSA AllWISE Source Catalog
+# WISE2 = 4.905 +/- 0.068
+# WISE3 = 4.882 +/- 0.023
+# WISE4 = 3.821 +/- 0.033
 # corfac_irs = 0.990
 corfac_spex_SXD = 1.254
 LXD_man = True

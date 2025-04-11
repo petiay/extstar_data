@@ -10,6 +10,8 @@ FUSE = FUSE_Data/hd206773_fuse.fits
 SpeX_SXD = SpeX_Data/hd206773_SXD_spex.fits
 SpeX_LXD = SpeX_Data/hd206773_LXD_spex.fits
 IRS = IRS_Data/hd206773_irs.fits
+corfac_irs_maxwave = 37.0
+corfac_irs_maxsnr = 50.
 sptype = B0V:pe ; sptype ref = Morgan, Code & Whitford 1955 (1955ApJS....2...41M)
 uvsptype = B0Ia ; uvsptype ref = Valencic+2004 (2004ApJ...616..912V)
 MIPS24 = 1.23E+02 +/- 2.69E+00 mJy
@@ -19,13 +21,10 @@ MIPS24 = 1.23E+02 +/- 2.69E+00 mJy
 IRAC3 = 6.45E+02 +/- 1.48E+01 mJy
 IRAC4 = 3.92E+02 +/- 8.20E+00 mJy
 IRS15 = 2.04E+02 +/- 4.19E+00 mJy
-# WISE have extended source contamination
-# WISE 1 and 2 seem off, have saturated pixels
 # WISE1 = 6.415 +/- 0.082 ; WISE ref = IRSA AllWISE Source Catalog
 # WISE2 = 6.104 +/- 0.033
-# WISE 3 and 4 contaminated by scattered moonlight
-WISE3 = 5.791 +/- 0.016
-WISE4 = 4.192 +/- 0.032
+# WISE3 = 5.791 +/- 0.016
+# WISE4 = 4.192 +/- 0.032
 # corfac_irs = 0.834
 # corfac_irs_slope = 0.009
 # corfac_irs_zerowave = 7.500
