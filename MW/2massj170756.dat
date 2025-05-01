@@ -16,6 +16,7 @@ STIS = STIS_Data/2massj170756_stis_UV.fits
 STIS_Opt = STIS_Data/2massj170756_stis_Opt.fits
 MIRI_IFU = MIRI_Data/2massj170756_miri_ifu.fits
 NIRCam_SS = NIRCam_Data/2massj170756_nircam_ss.fits
+sptype = B8Ia
 Teff = 15000.0
 logg = 2.4
 Z = 1.0
